@@ -1,0 +1,37 @@
+site_name: BC | 7.1.5
+theme: readthedocs
+
+nav:
+  - BoxCutter: index.md
+  - Getting Started:
+    - Installation: install.md
+    - Preferences: preference.md
+    - Hotkeys: hotkeys.md
+    - FAQ: faq.md
+
+  - Tool:
+    - Modal: modal.md
+    - Modes: modes.md
+    - Shapes: shapes.md
+    - Operations: operations.md
+    - Alignment: alignment.md
+    - Snapping: snapping.md
+    - Menus: menus.md
+    - Settings: settings.md
+
+  - Modes:
+    - Cut: red.md
+    - Slice: yellow.md
+    - Inset: purple.md
+    - Join: green.md
+    - Knife: blue.md
+    - Extract: black.md
+    - Make: grey.md
+
+  - Shapes:
+    - Box: box.md
+    - Circle: circle.md
+    - NGon: ngon.md
+    - Custom: custom.md
+
+  - Tips & Tricks: tips.md
