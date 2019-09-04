@@ -6,9 +6,26 @@ pages:
   - BoxCutter: index.md
   - Getting Started:
     - Installation: install.md
-    - Preferences: preference.md
+    - Getting Started: getstarted.md
+    - Interface: interface.md
     - Hotkeys: hotkeys.md
+    - Preferences: preference.md
     - FAQ: faq.md
+
+  - Modes:
+    - Cut: mode_red.md
+    - Slice: mode_yellow.md
+    - Inset: mode_purple.md
+    - Join: mode_green.md
+    - Knife: mode_blue.md
+    - Extract: mode_black.md
+    - Make: mode_grey.md
+
+  - Shapes:
+    - Box: shape_box.md
+    - Circle: shape_circle.md
+    - NGon: shape_ngon.md
+    - Custom: shape_custom.md
 
   - Tool:
     - Modal: modal.md
@@ -19,21 +36,6 @@ pages:
     - Snapping: snapping.md
     - Menus: menus.md
     - Settings: settings.md
-
-  - Modes:
-    - Cut: red.md
-    - Slice: yellow.md
-    - Inset: purple.md
-    - Join: green.md
-    - Knife: blue.md
-    - Extract: black.md
-    - Make: grey.md
-
-  - Shapes:
-    - Box: box.md
-    - Circle: circle.md
-    - NGon: ngon.md
-    - Custom: custom.md
 
   - Tips & Tricks: tips.md
 
