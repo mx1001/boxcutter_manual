@@ -1,7 +1,8 @@
-site_name: BC | 7.1.5
+site_name: Boxcutter Documentation
+site_url: https://boxcutter-manual.readthedocs.io/
 theme: readthedocs
 
-nav:
+pages:
   - BoxCutter: index.md
   - Getting Started:
     - Installation: install.md
@@ -35,3 +36,10 @@ nav:
     - Custom: custom.md
 
   - Tips & Tricks: tips.md
+
+markdown_extensions:
+    - admonition
+    - footnotes
+theme: readthedocs
+extra_css:
+    - css/extra.css
