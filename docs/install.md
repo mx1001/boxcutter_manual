@@ -34,6 +34,8 @@ Gumroad Sales Pages (make sure you are logged in first)
 3. Copy the contents of the zip to the addons location.
 C:\Users\YOUR USER\AppData\Roaming\Blender Foundation\Blender\2.8X\scripts\addons Remove any old HOPS / BC folders. Never overwrite.
 
+![install](img/install/ins1.gif)
+
 3a. Or use install from file. But this only works if the folder is not there already! Otherwise... issues.
 In the addon panel locate Boxcutter and delete them then you are able to install the newer update.
 Make sure the folders are not there and it should work fine.
