@@ -2,7 +2,7 @@
 
 ## General Hotkeys
 
-To use boxcutter efficiently is to use the hotkeys. You can use boxcutter without them but it takes away from the speed and power we envision for this tool. We have dreams to make it more capable for tablets and be able to use this without a keyboard someday so as more systems are added this should get closer. 
+To use boxcutter efficiently is to use the hotkeys. You can use boxcutter without them but it takes away from the speed and power we envision for this tool. We have dreams to make it more capable for tablets and be able to use this without a keyboard someday so as more systems are added this should get closer.
 
 # Alt + W (start boxcutter)
 
@@ -36,7 +36,7 @@ This is what should show in the help panel of the N panel
 
 # LMB / Spacebar - confirm
 
-Double-clicking or pressing spacebar will apply the shape and end the operation.
+Double-clicking or pressing spacebar will apply the shape and end the operation. Our tool is configured so that the next operation performed after a cut is cut. 
 
 ![start](img/hotkeys/hk6.gif)
 

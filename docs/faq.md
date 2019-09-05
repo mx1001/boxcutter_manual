@@ -105,4 +105,14 @@ Below you can see that in action.
 
 ---
 
-#
+# Whats up with snap dots in ortho?
+
+We are still figuring out the code for dots in front view. There is a difference between this view and all others that is giving us a bit of trouble.
+
+![faq](img/faq/f10.gif)
+
+The issue w/ snap dots in front look like this.
+
+![faq](img/faq/f11.gif)
+
+---
