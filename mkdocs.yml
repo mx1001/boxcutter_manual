@@ -30,7 +30,7 @@ pages:
     - Extract: mode_black.md
     - Make: mode_grey.md
 
-  - Tool:
+  - Tool and Systems:
     - Modal: modal.md
     - Modes: modes.md
     - Shapes: shapes.md
