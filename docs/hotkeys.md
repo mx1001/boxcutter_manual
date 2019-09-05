@@ -2,6 +2,8 @@
 
 ## General Hotkeys
 
+To use boxcutter efficiently is to use the hotkeys. You can use boxcutter without them but it takes away from the speed and power we envision for this tool. We have dreams to make it more capable for tablets and be able to use this without a keyboard someday so as more systems are added this should get closer. 
+
 # Alt + W (start boxcutter)
 
 Pressing alt + W starts boxcutter. It will also make the topbar popup at the top of the screen.
