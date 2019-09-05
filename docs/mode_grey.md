@@ -25,3 +25,9 @@ Drawing from the ground using snapping dots.
 Sketching from the side.
 
 ![mode](img/modes/m20.gif)
+
+Precision Make w/dots.
+
+![mode](img/modes/m40.gif)
+
+> snapping increment w/lock will make drawing snap to the specified increments.
