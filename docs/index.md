@@ -35,15 +35,12 @@ ___
 # History
 
 ![shape](img/index/ss1.png)
+
 ![shape](img/index/ogif3.gif)
 
 Boxcutter was first released April 26 2016. And from that moment it was a battle to survive.
 
 For memories sake here's the first trailer.
-
-<figure class="video_container">
-  <iframe src="src="https://www.youtube.com/embed/drgcD9YqYUc"" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
 
 - [Boxcutter V1](https://masterxeon1001.com/2016/04/26/box-cutter-guide-v1/)
 - [Boxcutter 4](https://masterxeon1001.com/2016/05/28/box-cutter-4-update-notes/)
