@@ -8,9 +8,11 @@ Boxcutter can be best started from the T panel.
 
 It can also be started with alt + W.
 
+> Notice how the topbar pops up when alt + W is used. 
+
 ![start](img/interface/i2.gif)
 
-Boxcutter can be started via clicking the words "activate boxcutter"
+Boxcutter can be started via clicking the words "activate boxcutter" in the N panel.
 
 ![start](img/interface/i3.gif)
 
