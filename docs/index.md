@@ -1,25 +1,25 @@
-# What is Boxcutter?
+# What is [Boxcutter](https://gumroad.com/l/BoxCutter)?
 
-Boxcutter is a [Blender 3d](https://www.blender.org/) plugin for concept design utilizing on screen drawing and hotkeys. It is being used by studios and companies all around the world and has been used in film, AAA games and even [cat helmet design](https://www.instagram.com/p/BseK8Nll34j/). As [Blender 3d](https://www.blender.org/) and boxcutter gain more traction we feel even more motivated to keep going.
+[Boxcutter](https://gumroad.com/l/BoxCutter) is a [Blender 3d](https://www.blender.org/) plugin for concept design utilizing on screen drawing and hotkeys. It is being used by studios and companies all around the world and has been used in film, AAA games and even [cat helmet design](https://www.instagram.com/p/BseK8Nll34j/). As [Blender 3d](https://www.blender.org/) and [boxcutter](https://gumroad.com/l/BoxCutter) gains more traction we feel even more motivated to keep going.
 
 ![shape](img/index/ogif1.gif)
 
 ___
 
-# Why is this page here?
+# Why is this [page](https://www.youtube.com/playlist?list=PL0RqAjByAphEUuI2JDxIjjCQtfTRQlRh0) here?
 
-You wouldn't believe how many people asked for boxcutter docs. I guess I talk too fast or move too fast in videos but now we have the means to educate the masses.
+You wouldn't believe how many people asked for [boxcutter](https://gumroad.com/l/BoxCutter) docs. I guess [I talk too fast or move too fast in videos but now we have the means to educate the masses.](https://www.youtube.com/playlist?list=PL0RqAjByAphEUuI2JDxIjjCQtfTRQlRh0)
 
-So batten down the hatches, it's time to get learning.
+[So batten down the hatches, it's time to get learning.](https://www.youtube.com/playlist?list=PL0RqAjByAphEUuI2JDxIjjCQtfTRQlRh0)
 ![shape](img/index/ogif5.gif)
 
 ___
 
 # How did Boxcutter come about?
 
-Boxcutter was first created by [AR.](https://twitter.com/AdrianRutk0wski/) From the moment of this tools first inception we had great plans for it. Many have worked on this tool over the years but it wasn't until [proxe](https://twitter.com/proxeIO) rewrote things for 2.8 with the future in mind did we get closer to the dreams we never knew we had. Even now we all still collaborate on ways to improve the tool and user experience while also trying to change the way things are done.
+[Boxcutter](https://masterxeon1001.com/2016/04/26/box-cutter-guide-v1/) was first created by [AR.](https://twitter.com/AdrianRutk0wski/) [From the moment of this tools first inception we had great plans for it.](https://masterxeon1001.com/2016/04/26/box-cutter-guide-v1/) [Many have worked on this tool over the years](https://masterxeon1001.com/2018/09/25/boxcutter-6-9-0-poly-dirk/) but it wasn't until [proxe](https://twitter.com/proxeIO) [rewrote things for 2.8 with the future in mind](https://masterxeon1001.com/2018/11/30/boxcutter-7-2-8-betascythe/) did we get closer to the dreams we never knew we had. Even now we all still collaborate on ways to improve the tool and user experience while also trying to change the way things are done.
 
-Boxcutter was an approach for a simpler more streamlined way to approach boolean modelling. HardOps had proven itself as focused workflow assistant and boxcutter was an attempt to reboot the whole idea with usability and simplicity in mind.
+Boxcutter was an approach for a simpler more streamlined way to approach boolean modelling. HardOps had proven itself as focused workflow assistant and [boxcutter](https://gumroad.com/l/BoxCutter) was an attempt to reboot the whole idea with usability and simplicity in mind.
 
 ![shape](img/index/ogif2.gif)
 
@@ -64,5 +64,5 @@ Our competition is fierce but we're never one to give up. A good idea is bound t
 
 These above posts chronicle our adventures throughout the boolean wars that still rage on to this day. The fires raging of events in the [b3d](https://twitter.com/search?q=%23b3d&src=typed_query) community still keeps up up late even years later.
 
-As our work continues the wheels keep turning. 2019 is the year of boxcutter.
+As our work continues the wheels keep turning. 2019 is the year of [boxcutter](https://gumroad.com/l/BoxCutter).
 ![shape](img/index/ogif4.gif)
