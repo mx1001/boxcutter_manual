@@ -42,10 +42,55 @@ And then Blender is able to be loaded and the addons enabled. Errors indicate th
 
 ---
 
-# Why can't I cut with mirror?
+# Why can't I cut with boxcutter mirror?
 
 Make sure you are on the right side. The mirror starts where you left it so if you begin cutting on the wrong side you will have to reset the mirror and remirror.
 
 ![faq](img/faq/f2.gif)
 
 > Notice how when I set the start operation it was already set to x+ which was where I left it and caused a slight confusion for a brief moment until i crossed the mirror.
+
+---
+
+# I can't use the Industry Standard Kepmap with the ctrl + D helper!
+
+This is because that keymap hardcodes hotkeys which replace the normal hotkey. For boxcutter to work you may have to remap or disable duplicate.
+![faq](img/faq/f3.png)
+
+You can work around this with a small modification to the keymap.
+
+![faq](img/faq/f4.gif)
+
+---
+
+# Inset issues w/ complex geometry and multiple bevels.
+
+The trickier the surface w/ complexity, the harder of a time you will have with inset.
+
+![mode](img/modes/m36.gif)
+
+> Inset works well for the blocking in phase of models but once multiple levels of bevel are present it will more than likely omit the top levels.
+
+It works fine with one level of bevel. Assuming the width isn't too big.
+![mode](img/modes/m37.gif)
+
+Let's try it with multiple levels. While it works the multiple levels were not taken into consideration to these situations must be handled differently.
+![mode](img/modes/m38.gif)
+
+---
+
+# Why does my extrude go the wrong way?
+
+Boxcutter extrudes in the direction of the normal. If your drawing goes the wrong way. You might want to enable face orientation to see normals.
+
+![faq](img/faq/f5.png)
+
+Here you can see me  dealing with flipped normals and having to use E and O to extrude and offset.
+
+![faq](img/faq/f6.gif)
+
+Getting the normals to be blue will get you back in action.
+
+![faq](img/faq/f7.gif)
+
+---
