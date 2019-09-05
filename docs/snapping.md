@@ -5,15 +5,28 @@
 # Intro to snapping
 
 Snapping can be started from the top bar using the magnet icon.
+
 ![snap](img/snap/s1.png)
 
+There is also a dropdown for specifics. You can set snap to:
+
+- increment
+- vertice
+- edge
+- face
+
+![snap](img/snap/s12.png)
+
 It is also present in the d-pie with the snap options.
+
 ![snap](img/snap/s2.gif)
 
 Snapping has a series of options.
+
 ![snap](img/snap/s3.png)
 
 Holding ctrl with boxcutter active will cause dots to show up for start position when drawing. We'll get to increment snap later.
+
 ![snap](img/snap/s4.gif)
 
 # Adjusting snap dots to perfection
@@ -23,6 +36,7 @@ Depending on monitor you may need the dots bigger or just more colorful. Lets ge
 ![snap](img/snap/s7.gif)
 
 In the prefs I adjusted the dots using the dot size and fade distance.
+
 ![snap](img/snap/s5.png)
 
 > Fade distance can be a nice visual relief from seeing too many dots.
