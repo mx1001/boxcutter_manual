@@ -2,7 +2,9 @@
 
 # Mode: Cut
 
-Red box has only the purpose of cutting. Users can toggle from any other state to cut using X.
+Hotkey >> X (during draw)
+
+Red cut has only the purpose of cutting. Users can toggle from any other state to cut using X.
 
 ![mode](img/modes/m1.gif)
 

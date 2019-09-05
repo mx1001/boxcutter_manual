@@ -2,7 +2,9 @@
 
 # Mode: Slice
 
-Yellow box is for slicing. When used the drawn shape will be cut from the object.
+Hotkey >> X (during draw)
+
+Yellow cut is for slicing. When used the drawn shape will be cut from the object.
 
 ![mode](img/modes/m11.gif)
 

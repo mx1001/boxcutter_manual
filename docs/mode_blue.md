@@ -1,0 +1,21 @@
+![header](img/banner.gif)
+
+# Mode: Blue Box
+
+Hotkey >> K (during draw)
+
+Blue cut is for knife. When using this tool the geometry will be implied on the mesh. In order to see it you will have to enter edit mode or enable wire view in the 3d view.
+
+![mode](img/modes/m23.gif)
+
+I normally use this to clean up booleans or prepare linework for bevels.
+
+![mode](img/modes/m24.gif)
+
+# Blue w/ Ngon Cyclic
+
+When using ngon c will cycle cyclic. If you use this with knife you can cut lines into models and with wireframes showing you can efficiently clean up booleans.
+
+> Having lines that don't converge with corners will result in smoother shading and a better result with the bevel modifier.
+
+![mode](img/modes/m25.gif)
