@@ -12,6 +12,12 @@ pages:
     - Preferences: preference.md
     - FAQ: faq.md
 
+  - Shapes:
+    - Box: shape_box.md
+    - Circle: shape_circle.md
+    - NGon: shape_ngon.md
+    - Custom: shape_custom.md
+
   - Modes:
     - Cut: mode_red.md
     - Slice: mode_yellow.md
@@ -20,12 +26,6 @@ pages:
     - Knife: mode_blue.md
     - Extract: mode_black.md
     - Make: mode_grey.md
-
-  - Shapes:
-    - Box: shape_box.md
-    - Circle: shape_circle.md
-    - NGon: shape_ngon.md
-    - Custom: shape_custom.md
 
   - Tool:
     - Modal: modal.md

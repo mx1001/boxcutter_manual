@@ -230,6 +230,8 @@ This makes alt + W toggle the grid for orientation as well as toggling between b
 
 With boxcutter in edit mode there can be issues with selection and in the even this happens you can use this option to disable ctrl as the activator for boxcutter in edit mode.
 
+In edit mode you can accidentally cut while trying to select a loop. This can be annoying since path select is essential. It comes with the territory of using lmb as a default now.
+
 # RMB Cancel Ngon
 
 This option allows for right click to backstroke on ngon versus cancelling and starting over.
