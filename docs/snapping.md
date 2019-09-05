@@ -81,7 +81,7 @@ To demonstrate it in action.
 
 # Using unapplied faces with face snapping for extractions
 
-Sometimes a shape heavily modifier from booleans would be snapped from were it earlier in its history. Like the beginning. This is a workflow I use to extract things that normally would be difficult to take or at least require adjustment and fine tuning.
+Sometimes a shape heavily modified from booleans would be better snapped from were it from an earlier point in its history. Like the beginning. This is a workflow I use to extract things that normally would be difficult to take or at least require adjustment and fine tuning.
 
 ![snap](img/snap/s11.gif)
 

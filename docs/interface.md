@@ -2,19 +2,17 @@
 
 ## Interface
 
-Boxcutter can be best started from the T panel.
+Boxcutter can be started from the T panel.
 
  ![start](img/interface/i1.png)
 
-It can also be started with alt + W.
+It can best be started with the [hotkey alt + W.](hotkeys.md)
 
-> Notice how the topbar pops up when alt + W is used. 
+> Notice how the topbar pops up when [alt + W](hotkeys.md) is used.
 
 ![start](img/interface/i2.gif)
 
 Boxcutter can be started via clicking the words "activate boxcutter" in the N panel.
-
-![start](img/interface/i3.gif)
 
 The topbar is the main interface of boxcutter and also is in the N panel and the active tool panel.
 
