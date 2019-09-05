@@ -22,7 +22,7 @@ During draw the following draw modifiers apply:
 
 - alt for uniform draw
 - shift for center draw (where the box is the same on all sides)
-- alt + shift for center uniform draw (how the cube center was cut)
+- alt + shift for center uniform draw (how the cube center was cut evenly)
 
 Here you can see them in action.
 
@@ -162,3 +162,7 @@ During draw you can press H to show wire. This can come in handy if you need the
 These are the preferences for setting the default for this behavior and the thickness of the lines.
 
 ![mode](img/shape/s12.png)
+
+# Box and snapping
+
+see [snapping](snapping.md)
