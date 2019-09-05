@@ -89,7 +89,7 @@ Sometimes the solid shape can get in the way. Pressing H during draw will toggle
 
 ![start](img/hotkeys/hk12.gif)
 
-# X - slice (during draw)
+# X - slice
 
 During draw pressing X will change to a slice.
 
@@ -97,19 +97,19 @@ During draw pressing X will change to a slice.
 
 ![start](img/hotkeys/hk15.gif)
 
-# Z - inset (during draw)
+# Z - inset
 
 Z toggles current shape into inset. During inset thickness can be adjusted with T and moving the mouse. There is also a property in the mini panel for this.
 
 ![start](img/hotkeys/hk16.gif)
 
-# J - Join (during draw)
+# J - Join
 
 J toggles a union draw which is represented by green.
 
 ![start](img/hotkeys/hk17.gif)
 
-# K - Knife Box (during draw)
+# K - Knife Box
 
 K toggles knife box. Which is used to cutting geometry with edges instead of boolean operations.
 
@@ -117,13 +117,13 @@ K toggles knife box. Which is used to cutting geometry with edges instead of boo
 
 ![start](img/hotkeys/hk18.gif)
 
-# A - Make (during draw)
+# A - Make
 
 A toggles make box which is just a regular box or shape. No booleans just a raw shape.
 
 ![start](img/hotkeys/hk19.gif)
 
-# Y - Extract (during draw)
+# Y - Extract
 
 Extract is made to take booleans from a mesh and make it into a cutter. Pressing Y brings up the black box which is the extractor. This can be a fun time. Taking shapes out and giving them back to the surface.
 
