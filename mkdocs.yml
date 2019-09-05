@@ -3,22 +3,25 @@ site_url: https://boxcutter-manual.readthedocs.io/
 theme: readthedocs
 
 pages:
-  - BoxCutter: index.md
+  - About BoxCutter: index.md
+
   - Getting Started:
     - Installation: install.md
+    - Preferences: preference.md
     - Getting Started: getstarted.md
     - Interface: interface.md
     - Hotkeys: hotkeys.md
-    - Preferences: preference.md
+
+  - Questions And Answers:
     - FAQ: faq.md
 
-  - Shapes:
+  - Shapes (In Depth):
     - Box: shape_box.md
     - Circle: shape_circle.md
     - NGon: shape_ngon.md
     - Custom: shape_custom.md
 
-  - Modes:
+  - Modes (In Depth):
     - Cut: mode_red.md
     - Slice: mode_yellow.md
     - Inset: mode_purple.md

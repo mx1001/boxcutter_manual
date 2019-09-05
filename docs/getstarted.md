@@ -32,8 +32,8 @@ You'll find in edit mode none of the booleans show if you have been working in n
 
 > You can even use boxcutter in edit mode.
 
-# Play with the various shapes
+# [Play with the various shapes](shapes.md)
 
-Box, Circle, Ngon and custom are in boxcutter and can be a fun time for various things.
+[Box](shape_box.md), [Circle](shape_circle.md), [Ngon](shape_ngon.md) and custom are in boxcutter and can be a fun time for various things.
 
 ![start](img/getstart1/g4.gif)

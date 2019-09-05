@@ -1,6 +1,6 @@
 # What is Boxcutter?
 
-Boxcutter is a [Blender 3d](https://www.blender.org/) plugin for concept design utilizing on screen drawing and hotkeys. It is being used by studios and companies all around the world and has been used in film, AAA games and even prop design. As [Blender 3d](https://www.blender.org/) and boxcutter gain more traction we feel even more motivated to keep going.
+Boxcutter is a [Blender 3d](https://www.blender.org/) plugin for concept design utilizing on screen drawing and hotkeys. It is being used by studios and companies all around the world and has been used in film, AAA games and even [cat helmet design](https://www.instagram.com/p/BseK8Nll34j/). As [Blender 3d](https://www.blender.org/) and boxcutter gain more traction we feel even more motivated to keep going.
 
 ![shape](img/index/ogif1.gif)
 
