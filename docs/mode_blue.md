@@ -19,3 +19,15 @@ When using ngon c will cycle cyclic. If you use this with knife you can cut line
 > Having lines that don't converge with corners will result in smoother shading and a better result with the bevel modifier.
 
 ![mode](img/modes/m25.gif)
+
+# Knife cut w/ mirror issues.
+
+When knife cutting it might be needed to turn the mirror off temporarily.
+
+Below you can see that in action.
+
+![faq](img/faq/f8.gif)
+
+For some reason this only happens with the hardOps mirror at this time.
+
+![faq](img/faq/f9.gif)

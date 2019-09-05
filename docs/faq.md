@@ -94,3 +94,15 @@ Getting the normals to be blue will get you back in action.
 ![faq](img/faq/f7.gif)
 
 ---
+
+# I can't knife cut w/ mirror.
+
+When knife cutting it might be needed to turn the mirror off temporarily.
+
+Below you can see that in action.
+
+![faq](img/faq/f8.gif)
+
+---
+
+#
