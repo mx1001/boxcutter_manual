@@ -16,6 +16,14 @@ Boxcutter has a help area inside of the N panel that populates with options as y
 
 ![start](img/getstart1/g2.gif)
 
+# General Assistance
+
+Boxcutter has a help button which can bring you to our channel for assistance.
+
+![start](img/getstart1/g5.gif)
+
+> It's also a nice place to report bugs and get noticed not to mention post art and chat!
+
 # Applying booleans
 
 You'll find in edit mode none of the booleans show if you have been working in non-destructive. As a result there is an option up top to apply booleans.

@@ -87,3 +87,11 @@ Keeps mods dictates what mods are applied on cutters.
 - also could possibly cause normal issues. Spin mods will flip normals on a dime.
 
 I put a decimate on it at the end to make it easier to look at.
+
+# Circle edit mode
+
+Circles are also able to be used in edit mode like box, ngon, and custom.
+
+![mode](img/shape/s30.gif)
+
+> You may have to press alt + W to start.

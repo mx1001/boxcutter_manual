@@ -41,3 +41,11 @@ And then Blender is able to be loaded and the addons enabled. Errors indicate th
  ![faq](img/faq/f1.gif)
 
 ---
+
+# Why can't I cut with mirror?
+
+Make sure you are on the right side. The mirror starts where you left it so if you begin cutting on the wrong side you will have to reset the mirror and remirror.
+
+![faq](img/faq/f2.gif)
+
+> Notice how when I set the start operation it was already set to x+ which was where I left it and caused a slight confusion for a brief moment until i crossed the mirror.

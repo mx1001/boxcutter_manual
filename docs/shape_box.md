@@ -102,6 +102,35 @@ When it is on the box is draw from the view and not from the surface / cursor / 
 
 > View align is a throwback to our classic 2.7x beginnings.
 
+# 2d vs 3d Box
+
+Previously we talked about this button.
+
+![mode](img/shape/s6.gif)
+
+When it comes to [knife](mode_blue.md) this button is a little more special.
+
+In 2.8 we attempted to make a 3d blue box and sometimes it can have issues with the goal we intended for it. As a result the above button also toggle classic and new blue box.
+
+New blue box is 3d and nice when its working right.
+
+![mode](img/shape/s31.gif)
+
+But it runs the risk of interior face creation.
+
+![mode](img/shape/s32.gif)
+
+> And no one wants faces on the inside of their model.
+
+So as a result classic blue box is back. But only in 2d form. Like classic.
+It can be activated in 2d view when you draw starting **off of the mesh**.
+
+![mode](img/shape/s33.gif)
+
+With view align on the classic blue box will always be active. Across all shapes.
+
+![mode](img/shape/s34.gif)
+
 # View align snap dot gotcha
 
 When view align is on and you aren't aware the snapping dots on ctrl will behave differently.
