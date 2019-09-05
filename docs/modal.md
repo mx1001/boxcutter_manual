@@ -4,7 +4,7 @@
 
 To quote the api:
 
-"Grab, Rotate, Scale and Fly-Mode are examples of modal operators. They are especially useful for interactive tools, your operator can have its own state where keys toggle options as the operator runs."
+["Grab, Rotate, Scale and Fly-Mode are examples of modal operators. They are especially useful for interactive tools, your operator can have its own state where keys toggle options as the operator runs."](https://docs.blender.org/api/blender_python_api_current/bpy.types.Operator.html#modal-execution)
 
 When you perform an operation like Grab or bevel in edit mode you are in a modal. This type of operation takes over the whole interface until it is over. This is different than active tools which can be used and stopped with a choice of continuing / repeating or discontinuing.
 

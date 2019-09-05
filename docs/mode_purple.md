@@ -36,7 +36,9 @@ The trickier the surface w/ complexity, the harder of a time you will have with 
 > Inset works well for the blocking in phase of models but once multiple levels of bevel are present it will more than likely omit the top levels.
 
 It works fine with one level of bevel. Assuming the width isn't too big.
+
 ![mode](img/modes/m37.gif)
 
-Let's try it with multiple levels. While it works the multiple levels were not taken into consideration to these situations must be handled differently.
+Let's try it with multiple levels. While it works the multiple levels were not taken into consideration to these situations must be handled differently. As you can see inset will not work here without applying.
+
 ![mode](img/modes/m38.gif)

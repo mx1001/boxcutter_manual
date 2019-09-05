@@ -1,15 +1,16 @@
-site_name: Boxcutter Documentation
+site_name: BoxDocs
 site_url: https://boxcutter-manual.readthedocs.io/
 theme: readthedocs
 
 pages:
   - About BoxCutter: index.md
 
-  - Getting Started:
+  - Getting Started w/ Boxcutter:
     - Installation: install.md
     - Preferences: preference.md
     - Getting Started: getstarted.md
     - Interface: interface.md
+    - Shapes: shapes.md
     - Hotkeys: hotkeys.md
 
   - Questions And Answers:
@@ -32,12 +33,11 @@ pages:
 
   - Tool and Systems:
     - Modal: modal.md
-    - Modes: modes.md
-    - Shapes: shapes.md
-    - Operations: operations.md
-    - Alignment: alignment.md
-    - Snapping: snapping.md
     - Menus: menus.md
+    - Modes: modes.md
+    - Operations: operations.md
+    - Snapping: snapping.md
+    - Alignment: alignment.md
     - Settings: settings.md
 
   - Tips & Tricks: tips.md

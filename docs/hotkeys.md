@@ -6,7 +6,7 @@ To use boxcutter efficiently is to use the hotkeys. You can use boxcutter withou
 
 # Alt + W (start boxcutter)
 
-Pressing alt + W starts boxcutter. It will also make the topbar popup at the top of the screen.
+Pressing alt + W (with your cursor in the 3d view) starts boxcutter. It will also make the topbar popup at the top of the screen. 
 
 ![start](img/hotkeys/hk1.gif)
 
@@ -36,7 +36,7 @@ This is what should show in the help panel of the N panel
 
 # LMB / Spacebar - confirm
 
-Double-clicking or pressing spacebar will apply the shape and end the operation. Our tool is configured so that the next operation performed after a cut is cut. 
+Double-clicking or pressing spacebar will apply the shape and end the operation. Our tool is configured so that the next operation performed after a cut is cut.
 
 ![start](img/hotkeys/hk6.gif)
 
