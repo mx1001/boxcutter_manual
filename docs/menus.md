@@ -27,7 +27,7 @@ The current topbar system contains the entirety of the boxcutter workflow in a d
 - [operations](operations.md)
 - [alignment](alignment.md)
 - [workflow](workflow.md)
-- [options](preferences.md)
+- [options](preference.md)
 
 The topbar can also be adjusted via preferences to be even smaller and nimble depending on preference.
 
