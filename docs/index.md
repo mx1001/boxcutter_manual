@@ -61,7 +61,7 @@ Boxcutter 690 was the final version for Blender 2.79 and remains in markets due 
 - [Boxcutter 712](https://masterxeon1001.com/2019/04/12/boxcutter-712-release-notes/)
 - [Boxcutter 713](https://masterxeon1001.com/2019/07/10/boxcutter-713-release-notes/)
 
-From 2016 to this very moment we have been working on this tool and the refinement of the ideas we hope to convey. And to say the journey hasn't been "uneventful" would be an understatement.
+From 2016 to this very moment we have been working on this tool and the refinement of the ideas we hope to convey. And to say the journey has been "eventful" would be an understatement.
 
 Our competition is fierce but we're never one to give up. A good idea is bound to get around.
 ![shape](img/index/competition.png)
