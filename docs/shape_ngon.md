@@ -22,6 +22,8 @@ A few details about ngon.
 - pressing H during draw will cycle over to wire mode
 - double clicking on the final point will allow users to extrude
 - triple click will lazorcut and end the operation (useful for quick cuts)
+- backspace will undo a point
+- right click will cancel operation
 
 # Backspace points
 
