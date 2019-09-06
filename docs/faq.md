@@ -115,4 +115,34 @@ The issue w/ snap dots in front look like this.
 
 ![faq](img/faq/f11.gif)
 
+To show the issue in action.
+
+---
+
+# When I draw very small the shape doesn't show up. Why?
+
+Boxcutter's repeat shape will trigger if the drawing is too small. You can fix this issue by adding more 00s to the lazorcut threshold in the behavior panel.
+
+![faq](img/faq/f12.png)
+
+To show the issue in action.
+
+![faq](img/faq/f13.gif)
+
+And demonstrated personally.
+
+> Notice that adding more 00s to lazorcut limit made it easier to cut the smallest holes.
+
+![faq](img/faq/f14.gif)
+
+This is due to lazorcut and repeat being connected. In typical use cases shapes too small are rejected or converted to repeat which can be a gotcha with new customers.
+
+---
+---
+---
+---
+---
+---
+---
+---
 ---
