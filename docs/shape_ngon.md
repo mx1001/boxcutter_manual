@@ -21,7 +21,7 @@ A few details about ngon.
 - ctrl will allow free movement while default is set to snap to the angle parameter set
 - pressing H during draw will cycle over to wire mode
 - double clicking on the final point will allow users to extrude
-- triple click will lazorcut and end the operation (useful for quick cuts)
+- triple click will [lazorcut](https://boxcutter-manual.readthedocs.io/en/latest/shape_box/#what-is-lazorcut) and end the operation (useful for quick cuts)
 - backspace will undo a point
 - right click will cancel operation
 
