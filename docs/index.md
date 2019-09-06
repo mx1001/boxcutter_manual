@@ -75,54 +75,71 @@ As our work continues the wheels keep turning. 2019 is the year of [boxcutter](h
 Many videos were done over the course of development chronicling the progress. Even now we continue to work on not only the tool but the way it is conveyed and educated. These videos serve as a nice overview of boxcutter the various features added to each release as the 2.8 era went on.
 
 713 Reintroduction
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H3093mifDoI" frameborder="0" allowfullscreen></iframe>
 
 DM - 003
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ju-1oXt_FO0" frameborder="0" allowfullscreen></iframe>
 
 713 H0S3
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uWbPFC32SrM" frameborder="0" allowfullscreen></iframe>
 
 712 Crazy Custom Cutters
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qvgwnUzEuwQ" frameborder="0" allowfullscreen></iframe>
 
 712 Update Log
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Pww4RveWnZ8" frameborder="0" allowfullscreen></iframe>
 
 712 Curved Cutting
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tEcVGpja44E" frameborder="0" allowfullscreen></iframe>
 
 711 Power Converter
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YIrthGmKhBo" frameborder="0" allowfullscreen></iframe>
 
 711 Basic Introduction
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8qtEPLT2YnY" frameborder="0" allowfullscreen></iframe>
 
 711 Spherical Eye Demo
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lEQF5rGituY" frameborder="0" allowfullscreen></iframe>
 
 707 More Box More Cutter
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EAgYEjZNnpA" frameborder="0" allowfullscreen></iframe>
 
 706 More Than Just a Box
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f_clPPu0tF0" frameborder="0" allowfullscreen></iframe>
 
 706 Corridor Timelapse
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GTxNhcMR7gY" frameborder="0" allowfullscreen></iframe>
 
 705 Green Additive Boxes
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9fpV33YCCmk" frameborder="0" allowfullscreen></iframe>
 
 704 Enter Blue Box
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BJ7P2n1cAFY" frameborder="0" allowfullscreen></iframe>
 
 703 Mirror Business
-<iframe width="560" height="315" src="USE https://www.youtube.com/embed/m2Bz91OPcBc" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m2Bz91OPcBc" frameborder="0" allowfullscreen></iframe>
 
 702 New User Intro
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oycSgUn9rD0" frameborder="0" allowfullscreen></iframe>
 
 702 Box City
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Y-TsPNlBfIc" frameborder="0" allowfullscreen></iframe>
 
 ![shape](img/index/ss3.png)
