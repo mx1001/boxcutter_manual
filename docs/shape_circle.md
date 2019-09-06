@@ -26,7 +26,7 @@ Using two of my favorite features:
 - face snap dots w/ secondary object thanks to active only. (it allows me an origin where there is none)
 - extraction (take the entire area and make it a custom cutter)
 
-![mode](img/shape/s18.gif)
+![mode](img/shape/s19.gif)
 
 And hardOps object scroll to bring back the shape.
 
