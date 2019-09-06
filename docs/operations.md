@@ -17,6 +17,8 @@ The first 4 operations are not the focus but they are:
 - extrude (comes up during the draw to extrude operation) (hotkey: E)
 - offset (triggers with O or E >> E during draw) (hotkey: O)
 
+> The above get triggered from general use. So it would make no sense to set anything other than default and the underlined mods as a start state. 
+
 The 4 main operators are as follows:
 
 - array (creates instances of mesh using array modifier) (hotkey: V)
