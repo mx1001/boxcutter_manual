@@ -1,5 +1,7 @@
 ![header](img/banner.gif)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H3093mifDoI" frameborder="0" allowfullscreen></iframe>
+
 ## Getting Started
 
 Boxcutter is intended to be a fun time drawing and cutting shapes.
