@@ -68,6 +68,15 @@ To showcase ngon cyclic in action:
 
 > Notice how solidify remembers the last amount it was left at for subsequent cuts but working this way eliminates multiple keystrokes.
 
+# Blue Knife w/ Ngon Cyclic
+
+As explained previousy: when using ngon c will cycle cyclic. If you use this with knife you can cut lines into models and with wireframes showing you can efficiently clean up booleans.
+
+> Having lines that don't converge with corners will result in smoother shading and a better result with the bevel modifier.
+
+![mode](img/modes/m25.gif)
+
+
 ## Ngon Operations
 
 Ngon is compatible with all of the operations in boxcutter.
@@ -87,11 +96,3 @@ a few things to note:
 - solidify is drawn with double thickness to make it more obvious
 - array works off the bat and is live
 - mirror can make the mesh not draw if shown on the wrong axis. I had to press 1 to set x mirror to -X in order to draw. This may be improved in the future.
-
-# Blue w/ Ngon Cyclic
-
-As explained previousy: when using ngon c will cycle cyclic. If you use this with knife you can cut lines into models and with wireframes showing you can efficiently clean up booleans.
-
-> Having lines that don't converge with corners will result in smoother shading and a better result with the bevel modifier.
-
-![mode](img/modes/m25.gif)
