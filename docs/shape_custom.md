@@ -49,7 +49,7 @@ As of now extraction is the only mode that cycles into a different shape.
 
 Pressing C while in Boxcutter >> Custom shape >> allows you to set that shape as the custom cutter.
 
-![shape](img/shape/s42.gif)
+![shape](img/shape/s47.gif)
 
 # 2d Grid Box Custom Cutter
 

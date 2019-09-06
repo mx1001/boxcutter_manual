@@ -22,6 +22,46 @@ Ctrl + D during boxcutter will bring up a mini helper with options that change d
 
 ![start](img/hotkeys/hk3.png)
 
+# Ctrl (Snapping dots)
+
+[Holding ctrl and moving the cursor over the mesh will reveal snapping dots for the enabled options.](snapping.md)
+
+>Dots will only show if snapping is enabled and a highlight option is selected for the selection. These are intended for box, circle and custom.
+
+![start](img/hotkeys/hk32.gif)
+
+## Draw Modifiers
+
+While boxcutter has many hotkeys for operations there are also modifiers for the drawing.
+
+applies to:
+
+- [box](shape_box.md)
+- [circle](shape_circle.md)
+- [custom](shape_custom.md)
+
+# Alt / Shift and Alt + Shift (during draw) Draw Modifiers
+
+Box defaults to corner draw. Which looks like this:
+
+![start](img/hotkeys/hk28.gif)
+
+- alt during draw will use center draw. This is useful with edge and face snapping dots.
+
+![start](img/hotkeys/hk27.gif)
+
+- shift during draw will use uniform draw. This is less used but exists as a thing.
+
+![start](img/hotkeys/hk29.gif)
+
+- shift + alt during draw will create a center square draw. This can be used to punch holes in shapes using a central face as the origin point.
+
+![start](img/hotkeys/hk30.gif)
+
+> notice that circle uses center draw which doesn't require alt + shift. That can also be toggled to box as well eliminating the two hotkeys needing the be held.
+
+![start](img/hotkeys/hk31.gif)
+
 ## In-Tool Hotkeys
 
 # About
