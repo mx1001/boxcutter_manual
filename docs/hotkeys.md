@@ -6,7 +6,7 @@ To use boxcutter efficiently is to use the hotkeys. You can use boxcutter withou
 
 # Alt + W (start boxcutter)
 
-Pressing alt + W (with your cursor in the 3d view) starts boxcutter. It will also make the topbar popup at the top of the screen. 
+Pressing alt + W (with your cursor in the 3d view) starts boxcutter. It will also make the topbar popup at the top of the screen.
 
 ![start](img/hotkeys/hk1.gif)
 
@@ -127,7 +127,9 @@ A toggles make box which is just a regular box or shape. No booleans just a raw 
 
 # Y - Extract
 
-Extract is made to take booleans from a mesh and make it into a cutter. Pressing Y brings up the black box which is the extractor. This can be a fun time. Taking shapes out and giving them back to the surface.
+Extract is made to take booleans from a mesh and make it into a cutter. Pressing Y brings up the black box which is the extractor. This can be a fun time. Taking shapes out and giving them back to the surface. After extraction the mesh will be made into a custom cutter and primed for use.
+
+![start](img/hotkeys/hk26.gif)
 
 # V - Array / V >> V
 
