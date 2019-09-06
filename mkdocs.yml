@@ -33,7 +33,7 @@ pages:
 
   - Tool and Systems:
     - Modal: modal.md
-    - Widgets: widget.md
+    - Widgets: widgets.md
     - Menus: menus.md
     - Modes: modes.md
     - Operations: operations.md
