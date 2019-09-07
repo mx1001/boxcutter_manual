@@ -251,6 +251,8 @@ Preserves left click for selection.
 
 This makes alt + W toggle the grid for orientation as well as toggling between boxcutter and hopstool.
 
+![install](img/pref/p35.png)
+
 # Disable Ctrl & Shift LMB Edit mode
 
 With boxcutter in edit mode there can be issues with selection and in the even this happens you can use this option to disable ctrl as the activator for boxcutter in edit mode.

@@ -32,6 +32,14 @@ For some reason this only happens with the hardOps mirror at this time.
 
 ![faq](img/faq/f9.gif)
 
+# Knife box material delete
+
+Due to the abnormal workflow that created the Blue box it isn't without glitches. For example when knife box is used the material could disappear.
+We are aware of this issue and hope to fix it but in the meantime but for now you will need to reassign the material.
+
+![faq](img/faq/f28.gif)
+
+
 # Classic videos on Blue Box
 
 Boxcutter 704 was the reintroduction of blue box in it's 3d form. This video shows me re-introducing the 2.8 version to users. It was the main focus of this video and should give some insight.

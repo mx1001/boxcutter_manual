@@ -138,6 +138,17 @@ Here is a better way to approach working this way:
 
 ---
 
+# Knife box material delete
+
+Due to the abnormal workflow that created the Blue box it isn't without glitches. For example when knife box is used the material could disappear.
+We are aware of this issue and hope to fix it but in the meantime but for now you will need to reassign the material.
+
+![faq](img/faq/f28.gif)
+
+> After knifing use the alt + M hardops menu to reassign the material.
+
+---
+
 # When do I need a guidance loop?
 
 Anytime you want to opimize a boolean solve.
