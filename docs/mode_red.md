@@ -51,3 +51,19 @@ In the corner of the topbar is a pause button that can let you pause the boolean
 - Autohide
 
 ![mode](img/modes/m10.gif)
+
+# Classic Videos On Cut
+
+When boxcutter was first ported to 2.8 only box and cut / slice was present. These videos serve as a nice history lesson and showing these features without all the additional extras.
+
+703 Mirror Business
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m2Bz91OPcBc" frameborder="0" allowfullscreen></iframe>
+
+702 New User Intro
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oycSgUn9rD0" frameborder="0" allowfullscreen></iframe>
+
+702 Box City
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y-TsPNlBfIc" frameborder="0" allowfullscreen></iframe>

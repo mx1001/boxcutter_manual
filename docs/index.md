@@ -66,7 +66,7 @@ This was the final ad of 2.79 for Boxcutter 690.
 - [Boxcutter 712](https://masterxeon1001.com/2019/04/12/boxcutter-712-release-notes/)
 - [Boxcutter 713](https://masterxeon1001.com/2019/07/10/boxcutter-713-release-notes/)
 
-713 is the most recent release (as of writing)
+713 is the most recent release (as of writing):
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/juZL5e5RU6s" frameborder="0" allowfullscreen></iframe>
 
@@ -110,6 +110,10 @@ DM - 003
 712 Curved Cutting
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tEcVGpja44E" frameborder="0" allowfullscreen></iframe>
+
+712 #boxcutter w/Commotion for logo animation in #b3d
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kpckhxuUKj4" frameborder="0" allowfullscreen></iframe>
 
 711 Power Converter
 
@@ -158,6 +162,8 @@ DM - 003
 690 Final Ad
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9wqdXqtYQns" frameborder="0" allowfullscreen></iframe>
+
+
 
 ![shape](img/index/ss3.png)
 

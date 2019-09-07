@@ -31,3 +31,11 @@ Below you can see that in action.
 For some reason this only happens with the hardOps mirror at this time.
 
 ![faq](img/faq/f9.gif)
+
+# Classic videos on Blue Box
+
+Boxcutter 704 was the reintroduction of blue box in it's 3d form. This video shows me re-introducing the 2.8 version to users. It was the main focus of this video and should give some insight.
+
+704 Enter Blue Box
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BJ7P2n1cAFY" frameborder="0" allowfullscreen></iframe>
