@@ -138,6 +138,29 @@ And demonstrated personally.
 This is due to lazorcut and repeat being connected. In typical use cases shapes too small are rejected or converted to repeat which can be a gotcha with new customers.
 
 ---
+
+# How do you set up circle to be reverse bevelled. Mine still have the spin modifier.
+
+Keep mods keeps the selected modifiers live on a shape utilizing them.
+
+![faq](img/faq/f16.png)
+
+To show what it is like not keeping modifiers:
+
+![faq](img/faq/f17.gif)
+
+- bevel, solidify, array, mirror are on by default (this ensures being able to tweak afterwards)
+- spin is applied so the center convergence can be dissolved resulting in a nicer circle
+- lattice is never on. We turn this on for advanced diagnosis. Lattices are used by bc for placement so there is no need to keep lattices.
+- you cannot reverse bevel an edge. Since the normals of an edge cannot be flipped.
+
+> Only by applying spin can you use a boxcutter circle for reverse bevel in Hard Ops.
+
+This video goes over the introduction of reverse bevel.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6TdRQc1Grws" frameborder="0" allowfullscreen></iframe>
+
+
 ---
 ---
 ---
