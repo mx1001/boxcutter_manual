@@ -10,6 +10,8 @@ Pressing alt + W (with your cursor in the 3d view) starts boxcutter. It will als
 
 ![start](img/hotkeys/hk1.gif)
 
+> Without Boxcutter started none of the below hotkeys apply.
+
 # D (pie menu)
 
 D will bring up a pie menu that has all the most important options handy.
