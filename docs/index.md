@@ -54,7 +54,7 @@ This was the final ad of 2.79 for Boxcutter 690.
 - [Boxcutter 6.8.8](https://masterxeon1001.com/2018/06/04/boxcutter-6-8-8-ghostscythe/)
 - [Boxcutter 6.6](https://masterxeon1001.com/2017/09/21/boxcutter-6-6-update-notes/)
 - [Boxcutter 6.5](https://masterxeon1001.com/2017/04/29/boxcutter-6-5-symslice/)
-- [Boxcutter 6](h{ttps://masterxeon1001.com/2017/02/15/boxcutter-6-matscythe/)
+- [Boxcutter 6](https://masterxeon1001.com/2017/02/15/boxcutter-6-matscythe/)
 - [Boxcutter 5](https://masterxeon1001.com/2016/09/30/boxcutter-5-switchblade-update-notes/)
 - [Boxcutter 4](https://masterxeon1001.com/2016/05/28/box-cutter-4-update-notes/)
 - [Boxcutter V1](https://masterxeon1001.com/2016/04/26/box-cutter-guide-v1/)
