@@ -105,6 +105,94 @@ Below you can see that in action.
 
 ---
 
+# How do you knife cut with like the above image?
+
+- Q: circle bool cuts are visible in edit mode to be able to see where to place the loop cuts at. How?
+- A: unhiding the objects I need to see for adjustment.
+
+![faq](img/faq/f19.png)
+
+To show using knife to cleanup on the fly.
+
+![faq](img/faq/f18.gif)
+
+A few things:
+
+- *Knife will only show if wireframe display is on* hops >> alt + V >> wireframe
+- knife requires you connect to an edge to work properly
+- during ngon draw. C toggles cyclic line view which is handy for these sorts of operations.
+
+![mode](img/modes/m25.gif)
+
+> Notice that every cut goes off the model in some way or connects with a guidance line. This is the recommend way to approach this workflow.
+
+Drawing in the middle of a face without providing assistance to solve will look like this.
+
+![faq](img/faq/f20.gif)
+
+Here is a better way to approach working this way:
+
+> Notice the improved linework when guidance lines are provided.
+
+![faq](img/faq/f21.gif)
+
+---
+
+# When do I need a guidance loop?
+
+Anytime you want to opimize a boolean solve.
+
+Most of the time you can let booleans solve as they will. But working this way causes issues for the bevel mod due to long angular edges which also can affect starting orientation for drawing. Even with boolean topological quality guidelines apply.
+
+If we cut boxes into a face without any assistance the result will look like this.
+
+![faq](img/faq/f22.gif)
+
+This can work in most cases but it could be better. Lets add a bevel modifier to see how this goes.
+
+- bevel makes the surface look worse due to connections
+- edges connecting to corners caused issues with bevel and its translation
+- no guidance edges will cause these issues
+- personally I solve just enough to avoid this stuff on the fly. Sometimes I'll cut cut cut then do a knife box to fix it
+- *hops >> alt + V >> wireframe is essential for seeing these issues*
+
+![faq](img/faq/f23.gif)
+
+We can improve this with a few well placed knife box cuts. This strategy's purpose is to relieve the stress in corners with the bevel modifier and solving booleans. Sometimes user assistance is needed.
+
+![faq](img/faq/f24.gif)
+
+> This is due to blender solving as it wants by default. In the least efficieint way. So it is up to you the user to control this.
+
+---
+
+# Is there a difference between ngon solid and ngons line (cyclic)?
+
+Only in the result. A line is very different than a solid.
+When knifing the results will be almost the same. Except with cyclic your end point doesnt reconnect to the start.
+Ngon cyclic works great for knife but cutting will require thickness.
+
+![faq](img/faq/f25.gif)
+
+In cut mode cyclic requires (t) thickness to work properly. Or with cut the default mode can be solidify for panel cuts.
+
+To show cyclic ngon solidify in action.
+
+![faq](img/faq/f26.gif)
+
+ a few things to note:
+
+ - without solidify as the start state I had to press T to add thickness
+ - pressing C during draw cycles cyclic and normal.
+
+With solidify on ngon it can perform almost the same except for the initial shape being either connected to the first point and a solid shape or a wire mesh with a solid mod.
+
+![faq](img/faq/f27.gif)
+
+They both have uses worth experimenting with to get the most out of each state. But cyclic ngon exists for a reason.
+
+---
+
 # Whats up with snap dots in ortho?
 
 We are still figuring out the code for dots in front view. There is a difference between this view and all others that is giving us a bit of trouble.

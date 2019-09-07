@@ -55,6 +55,8 @@ By using the [3d cursor alignment gizmo](alignment.md): users will be able to dr
 
 # Ngon Cyclic
 
+> Cyclic refers to closing the shape. Toggling cyclic will open the shape up instead of closing it. 
+
 Pressing C during draw will cycle cyclic mode. We intend to make this into a dedicated tool down the road but for now it is a feature of ngon.
 
 > Cyclic is intended to be used with T for solidification before apply. Otherwise it has a 30% chance of doing a bisect.
