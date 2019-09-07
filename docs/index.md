@@ -39,7 +39,15 @@ ___
 
 [Boxcutter was first released April 26 2016.](https://youtu.be/drgcD9YqYUc) And from that moment it was a battle to survive.
 
+This was the initial launch ad for boxcutter.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/drgcD9YqYUc" frameborder="0" allowfullscreen></iframe>
+
 Boxcutter 690 was the final version for Blender 2.79 and remains in markets due to it still being popular.
+
+This was the final ad of 2.79 for Boxcutter 690.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wqdXqtYQns" frameborder="0" allowfullscreen></iframe>
 
 - [Boxcutter 6.9.0](https://masterxeon1001.com/2018/09/25/boxcutter-6-9-0-poly-dirk/)
 - [Boxcutter 6.8.9](https://masterxeon1001.com/2018/07/24/boxcutter-6-8-9-interdimensional-ghostscythe/)
@@ -57,6 +65,10 @@ Boxcutter 690 was the final version for Blender 2.79 and remains in markets due 
 - [Boxcutter 711](https://masterxeon1001.com/2019/02/15/boxcutter-711-release-notes/)
 - [Boxcutter 712](https://masterxeon1001.com/2019/04/12/boxcutter-712-release-notes/)
 - [Boxcutter 713](https://masterxeon1001.com/2019/07/10/boxcutter-713-release-notes/)
+
+713 is the most recent release (as of writing)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/juZL5e5RU6s" frameborder="0" allowfullscreen></iframe>
 
 From 2016 to this very moment we have been working on this tool and the refinement of the ideas we hope to convey. And to say the journey has been "eventful" would be an understatement.
 
@@ -142,6 +154,10 @@ DM - 003
 702 Box City
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Y-TsPNlBfIc" frameborder="0" allowfullscreen></iframe>
+
+690 Final Ad
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wqdXqtYQns" frameborder="0" allowfullscreen></iframe>
 
 ![shape](img/index/ss3.png)
 

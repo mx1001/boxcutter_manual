@@ -8,6 +8,10 @@ Custom cutter is one of the more experimental shapes in boxcutter but it is usef
 
 > When nothing is selected as the custom cutter it draw's our logo. A nice way brand something.
 
+Below is a video on making a custom cutter.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k60evWExwVQ" frameborder="0" allowfullscreen></iframe>
+
 # Self.Cut
 
 Custom cutter is unique in that it can use itself as the cutter. This can result in some interesting results and the basis for many experimentations.
