@@ -259,9 +259,40 @@ This video goes over the introduction of reverse bevel.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6TdRQc1Grws" frameborder="0" allowfullscreen></iframe>
 
+---
+
+# [heavyPoly](https://www.facebook.com/groups/heavypoly/) config no work
+
+Installation
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aQKUCjTRzTk" frameborder="0" allowfullscreen></iframe>
+
+okay, I followed these instructions
+
+- 1 - You open your Hpconfig blender, go in preferences/keymap and export your key configuration. 2 - For your new Blender setup,  you put all of the HPConfig files like usual except the config folder (The problem doesn't come from the plugins).
+
+- 3 - In that new blender you go to preferences/keymap, import the old keymap
+
+- 4 - you need to move your windows around to get the user interface similar (if you want) and then you are good! ALSO
+
+- 5 - if you want the text file with the shortcuts, you go in your HPconfig Blender,  in the text editor tab, you choose save as to extract the file from the config,
+
+- 6 - you load it in your new blender! easy peazy. You can now install Boxcutter and friends to your liking.
+
+- 7 - Save the new  config by going into File/Defaults/Save Startup file
+
+But it was still crashing when I use boxcutter, so I uninstalled every installation of Blender, I deleted the files from the folder that is allocated in %appdata%.
+
+Then I download blender, HP Config and the addons and did all again and it worked, to be honest I don't know exactly what was causing the crash.
+
+Maybe some files from previous installations
+
+I hope it helps.
 
 ---
----
+
+
+
 ---
 ---
 ---

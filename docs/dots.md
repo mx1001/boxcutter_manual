@@ -55,7 +55,7 @@ Custom / Circle also has dots similar to box.
 
 And custom shape.
 
->> Notice custom doesnt have the bevel dot.
+>> Notice custom doesnt have the bevel 0dot.
 
 ![image](img/dots/d9.gif)
 
