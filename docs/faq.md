@@ -48,9 +48,20 @@ Make sure you are on the right side. The mirror starts where you left it so if y
 
 ![faq](img/faq/f2.gif)
 
-> Notice how when I set the start operation it was already set to x+ which was where I left it and caused a slight confusion for a brief moment until i crossed the mirror.
+> Notice how when I set the start operation it was already set to x+ which was where I left it and caused a slight confusion for a brief moment until the mirror was crossed
 
 ---
+
+# How do I duplicate a cutter? And keep the boolean?
+
+[see bc_transformer](https://boxcutter-manual.readthedocs.io/en/latest/widgets/#bc_transformer)
+
+![align](img/widgets/w3.gif)
+
+The bc_transformer is a widget for transforming or duplicating booleans. 
+
+---
+
 
 # I can't use the Industry Standard Kepmap with the ctrl + D helper!
 
