@@ -261,7 +261,11 @@ This video goes over the introduction of reverse bevel.
 
 ---
 
-# [heavyPoly](https://www.facebook.com/groups/heavypoly/) config no work
+
+
+---
+
+# [heavyPoly](https://www.facebook.com/groups/heavypoly/) config no work?
 
 Installation
 
@@ -288,3 +292,68 @@ Maybe some files from previous installations
 I hope it helps.
 
 ---
+
+# Classic Update Guide
+
+> same applies to any add-on like HardOps or KitOps
+
+![faq](img/faq/f29.png)
+
+First things first. Update Blender 2.8. Next download the latest Boxcutter / HOPScutter package with the latest zip which is already in the market.
+
+    - [94% of support issues involve needing to update 2.8](https://builder.blender.org/download)
+    - [3% involve installing the add-on via copying the folder in the zip to the addon folder. Make sure to delete the old folder before copying over](https://www.youtube.com/watch?v=oMZrQ6ZHKm0)
+    C:\Users\YOUR USER\AppData\Roaming\Blender Foundation\Blender\2.81\scripts\addons
+    Windows Button + R >> Run >> %appdata%\Blender Foundation\Blender\2.81 (to access addons folder)
+    - 2% involves using an older version of Boxcutter with a new Blender which causes a ” no attribute ‘tool mode’ ” error. Update Boxcutter / HOPScutter via the market.
+
+If you updated Blender and the tools stopped working, update the tools as well. Update [Boxcutter](https://gumroad.com/l/BoxCutter) / [HOPScutter](https://gumroad.com/l/hopscutter) via the market.
+
+    [1% involves other issues like topbar](https://twitter.com/mxeon1001/status/1123820309168177154)
+
+# Obtaining Updates
+
+As you know updates are always free. And we are committed to working with the latest version of [Blender](https://www.blender.org/)
+
+[Blendermarket](https://www.blendermarket.com/account/orders)
+
+[Logging into BlenderMarket using the dropdown and choosing orders will allow you to download the latest update.](https://www.blendermarket.com/account/orders)
+
+![faq](img/faq/f30.png)
+
+If orders aren’t showing up under your account it is recommended to write the admins using the chat bubble on the side. Only the admins are able to resolve this issue.
+
+![faq](img/faq/f32.png)
+
+[Gumroad](https://gumroad.com/l/BoxCutter)
+
+[Logging in via the button in the top right and accessing the sales page will allow you to view the product and download the latest update.](https://gumroad.com/library)
+
+![faq](img/faq/f31.png)
+
+
+# Installation
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oMZrQ6ZHKm0" frameborder="0" allowfullscreen></iframe>
+
+Place the folder from the zip in the local add-on directory.
+
+![faq](img/faq/f34.gif)
+
+C:\Users\YOUR USER\AppData\Roaming\Blender Foundation\Blender\2.80\scripts\addons
+
+Also remove any previous boxcutter folder before replacing it with the new one.
+
+INSTALL FROM FILE CAN HAVE ISSUES IF THE FOLDER IS THERE ALREADY. PLACE THE ZIP IN THE SPECIFIED FOLDER TO ENSURE IT WORKS WITHOUT ISSUE. OR ENSURE THE FOLDER ISNT THERE AND USE INSTALL FROM FILE.
+
+The next level of support involves deleting the /config which makes Blender open as new. If you have issues with the previous steps or are moving over custom configurations this can cause issues if the properties have existed for multiple itterations of 2.8. From time to time removing the config allows for clean installation and quick startup.
+
+# Contact / Email
+
+For support issues you can email me at masterxeon1001@gmail.com
+
+However, I will also have you update Blender 2.8.
+
+Also the help icon in Boxcutter takes you to the discord which I recommend for all users looking for a community to connect to.
+
+![faq](img/faq/f33.png)

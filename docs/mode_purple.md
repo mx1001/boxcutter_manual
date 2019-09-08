@@ -42,3 +42,13 @@ It works fine with one level of bevel. Assuming the width isn't too big.
 Let's try it with multiple levels. While it works the multiple levels were not taken into consideration to these situations must be handled differently. As you can see inset will not work here without applying.
 
 ![mode](img/modes/m38.gif)
+
+# Inset Launch Content
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8qtEPLT2YnY" frameborder="0" allowfullscreen></iframe>
+
+Model out a curved shape and try purple box on it! Its fun for making spaceships! Of course with Hard Ops (alt + X) mirror do not use bisect (creates a hole) use modifier.
+
+![mode](img/modes/m44.gif)
+
+![mode](img/modes/m45.gif)

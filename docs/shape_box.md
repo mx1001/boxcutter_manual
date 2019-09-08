@@ -70,6 +70,25 @@ Repeat can also be used with shift to live in order to adjust the repeated shape
 
 > with shift to active not on the repeat to live selected the main object as well which is more clicking to deselect.
 
+# Rotate Shape During draw
+
+Pressing R or ~ (tilda) will rotate the shape (alt + scroll) 90 degrees.
+
+![mode](img/shape/s51.gif)
+
+# Shape Recall
+
+> Do not try to recall shapes that do not exist.
+
+When drawing a box or circle you can recall previous cutters in the cutter collection with alt + MMB or the C key.
+
+Shape recall only works with Box, and circle. Ngon will have a special solution for recall.
+
+![mode](img/shape/s49.gif)
+
+![mode](img/shape/s50.gif)
+
+
 # Orientation
 
 When an object is selected the default orientation should be object.
