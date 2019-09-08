@@ -267,8 +267,6 @@ Installation
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aQKUCjTRzTk" frameborder="0" allowfullscreen></iframe>
 
-okay, I followed these instructions
-
 - 1 - You open your Hpconfig blender, go in preferences/keymap and export your key configuration. 2 - For your new Blender setup,  you put all of the HPConfig files like usual except the config folder (The problem doesn't come from the plugins).
 
 - 3 - In that new blender you go to preferences/keymap, import the old keymap
@@ -289,13 +287,4 @@ Maybe some files from previous installations
 
 I hope it helps.
 
----
-
-
-
----
----
----
----
----
 ---
