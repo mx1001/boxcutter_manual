@@ -331,7 +331,6 @@ If orders aren’t showing up under your account it is recommended to write the 
 
 ![faq](img/faq/f31.png)
 
-
 # Installation
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oMZrQ6ZHKm0" frameborder="0" allowfullscreen></iframe>
