@@ -58,10 +58,19 @@ Make sure you are on the right side. The mirror starts where you left it so if y
 
 ![align](img/widgets/w3.gif)
 
-The bc_transformer is a widget for transforming or duplicating booleans. 
+The bc_transformer is a widget for transforming or duplicating booleans.
 
 ---
 
+# "How do I change inset "distance"? Like its width. Idk how to say it lol. I can't find anything about it in the documentation."
+
+During draw. T changes the thickness.
+
+The help shows this as well during draw.
+
+![faq](img/faq/f35.gif)
+
+---
 
 # I can't use the Industry Standard Kepmap with the ctrl + D helper!
 
