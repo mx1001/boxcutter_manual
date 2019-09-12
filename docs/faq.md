@@ -2,6 +2,18 @@
 
 ## FAQs and SFQs
 
+# How do you exit boxcutter?
+
+W - press W
+
+or choose any other active tool.
+
+ ![faq](img/faq/f36.png)
+
+# Help! I am using RMB select and cannot select multiple objects.
+
+ ![faq](img/faq/f37.png)
+
 # How do I install Boxcutter?
 
 If updating Blender one must also update the Hard Ops / Boxcutter packages for the latest version.

@@ -32,6 +32,7 @@ pages:
     - Make: mode_grey.md
 
   - Tool and Systems:
+    - Edit Mode: edit_mode.md
     - Modal: modal.md
     - Widgets: widgets.md
     - Menus: menus.md
