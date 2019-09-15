@@ -12,6 +12,7 @@ pages:
     - Interface: interface.md
     - Shapes: shapes.md
     - Hotkeys: hotkeys.md
+    - Dots: dots.md
 
   - Questions And Answers:
     - FAQ: faq.md
