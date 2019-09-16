@@ -12,7 +12,21 @@ or choose any other active tool.
 
 # Help! I am using RMB select and cannot select multiple objects.
 
- ![faq](img/faq/f37.png)
+Extra hotkeys are added for our active tool state. Since it is based on default,
+when using RMB select swap cursor button to other hotkey or uncheck it.
+that should fix the problem with shift select.
+
+![faq](img/faq/f38.png)
+
+# Why am I experiencing crashes on mac?
+
+When experiencing [crashes on Mac we need a crash report.](https://hardops-manual.readthedocs.io/en/latest/issues/#mac-help) However opening the terminal causes Blender to be stable. So it is hard to pinpoint.
+
+By rightclicking blender.app and view package contents you can open blender from inside the MacOS folder. This will auto load terminal stopping the crashes. We aren't completely sure why this is occurring but are checking into it. We hope to have a fix in the meantime if Blender itself doesn't resolve things in a future update. At this time the issue appears to only be happening on mac.
+
+[From the hops docs on the topic.](https://hardops-manual.readthedocs.io/en/latest/issues/#mac-help)
+
+![image](https://hardops-manual.readthedocs.io/en/latest/img/issue/i5.gif)
 
 # How do I install Boxcutter?
 
