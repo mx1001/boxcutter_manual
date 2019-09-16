@@ -18,7 +18,7 @@ that should fix the problem with shift select.
 
 ![faq](img/faq/f38.png)
 
-# Why am I experiencing crashes on mac?
+# Why am I experiencing crashes on Mac?
 
 When experiencing [crashes on Mac we need a crash report.](https://hardops-manual.readthedocs.io/en/latest/issues/#mac-help) However opening the terminal causes Blender to be stable. So it is hard to pinpoint.
 
