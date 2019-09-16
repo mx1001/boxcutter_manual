@@ -43,3 +43,44 @@ Notice how troublesome extractions get with unapplied rotation.
 Once rotation is applied it behaves a little better.
 
 ![troubleshooting](img/troubleshooting/ts7.gif)
+
+# Why are my bevels skewed?
+
+Depending on the geometry supplied bevels can show incorrectly.
+
+Here we'll set up a few booleans and then bevel it.
+
+![troubleshooting](img/troubleshooting/ts8.gif)
+
+By viewing the wires we can see what is going on.
+
+![troubleshooting](img/troubleshooting/ts9.gif)
+
+[Blue box](mode_blue.md) is capable of fixing it. By adding an edge the bevel is able to better deal with the boolean.
+
+![troubleshooting](img/troubleshooting/ts10.gif)
+
+# How would you fix this shape?
+
+![troubleshooting](img/troubleshooting/ts12.png)
+
+To first create the situation.
+
+![troubleshooting](img/troubleshooting/ts11.gif)
+
+We could solve this by using:
+- mirror
+- bevel (3 segements / profile 1)
+- isolation loops
+
+![troubleshooting](img/troubleshooting/ts13.gif)
+
+And to fix the bottom.
+
+![troubleshooting](img/troubleshooting/ts14.gif)
+
+Without the solving of the area to relax the bevel it shades differently. You can also cleanup to a minimal amount and get away with it but getting it right allows for close-ups and less visual artifacting.
+
+![troubleshooting](img/troubleshooting/ts15.gif)
+
+It can require some finessing to get both the form and the bevel to be guided properly by the flow. However this isn't possible non-destructively at this time. 
