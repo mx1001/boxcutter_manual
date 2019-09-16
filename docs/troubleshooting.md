@@ -69,7 +69,7 @@ To first create the situation.
 ![troubleshooting](img/troubleshooting/ts11.gif)
 
 We could solve this by using:
-- mirror
+- mirror (bisect) *this will need to be applied before using booleans again*
 - bevel (3 segements / profile 1)
 - isolation loops
 
@@ -83,4 +83,4 @@ Without the solving of the area to relax the bevel it shades differently. You ca
 
 ![troubleshooting](img/troubleshooting/ts15.gif)
 
-It can require some finessing to get both the form and the bevel to be guided properly by the flow. However this isn't possible non-destructively at this time. 
+It can require some finessing to get both the form and the bevel to be guided properly by the flow. However this isn't possible non-destructively at this time.
