@@ -9,6 +9,7 @@ pages:
     - Installation: install.md
     - Preferences: preference.md
     - Getting Started: getstarted.md
+    - Troubleshooting: troubleshooting.md
     - Interface: interface.md
     - Shapes: shapes.md
     - Hotkeys: hotkeys.md
