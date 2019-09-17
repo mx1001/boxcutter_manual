@@ -17,7 +17,7 @@ The first 4 operations are not the focus but they are:
 - extrude (comes up during the draw to extrude operation) (hotkey: E)
 - offset (triggers with O or E >> E during draw) (hotkey: O)
 
-> The above get triggered from general use. So it would make no sense to set anything other than default and the underlined mods as a start state. 
+> The above get triggered from general use. So it would make no sense to set anything other than default and the underlined mods as a start state.
 
 The 4 main operators are as follows:
 
@@ -28,20 +28,23 @@ The 4 main operators are as follows:
 
 ___
 
-# Array (in-mode hotkey: V)
+# Array / Radial Array (in-mode hotkey: V)
 
 During the draw mode or while paused:
 
-V will trigger array. Pressing V a 2nd time will remove the array during draw.
+V will trigger array. Pressing V a 2nd time will switch to radial array with a third V to remove the array during draw.
 
-![operations](img/operations/o2.gif)
+![operations](img/operations/o7.gif)
 
 During array the following hotkeys apply:
 
 - x / changes axis to X
 - y / changes axis to Y
 - z / changes axis to Z
-- V / adds or remove array
+- V (2nd time) / circular array (scroll for count / move for distance)
+- V (third time) / removes array
+
+![operations](img/operations/o8.gif)
 
 During this mode users can press ctrl + D for the mini helper for fine adjustment.
 
