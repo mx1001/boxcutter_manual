@@ -14,6 +14,10 @@ While working in non-destructive booleans are kept live. You can apply them by u
 
 ![mode](img/modes/m2.gif)
 
+You may need to go back and delete the collection as well to delete the cutter shapes.
+
+![mode](img/modes/m46.png)
+
 # Pause mode
 
 In the corner of the topbar is a pause button that can let you pause the boolean operation for after confirmation. This can be useful when the viewport begins getting slow or there's performance issues.
