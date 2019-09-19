@@ -28,6 +28,24 @@ By rightclicking blender.app and view package contents you can open blender from
 
 ![image](https://hardops-manual.readthedocs.io/en/latest/img/issue/i5.gif)
 
+# How do I fix the issue on mac?
+
+To quote user: redacted
+"Just so you know, I found a way to make things easier for mac users by running the Terminal-Boxcutter-Blender fix with a single click, by doing it via AppleScript:"
+
+
+    tell application "Terminal"
+
+      do script "/Users/joshPolman/Desktop/Blender.app/Contents/MacOS/Blender" -- path of Blender file inside package
+
+    end tell
+
+Running this applescript launches the Blender file inside the package, in Terminal.
+
+The applescript can then be exported as an executable file from ScriptEditor, thus running Blender with the Boxcutter fix with just one click.
+
+[This is the applescript for fixing the issue.](https://www.dropbox.com/s/sjurbmgr1hsowzj/Blender%202.8%20Boxcutter.scpt?dl=0)
+
 # How do I install Boxcutter?
 
 If updating Blender one must also update the Hard Ops / Boxcutter packages for the latest version.
