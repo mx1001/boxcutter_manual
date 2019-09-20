@@ -4,6 +4,7 @@ theme: readthedocs
 
 pages:
   - About BoxCutter: index.md
+  - Sales Page: boxcutter_page.html
 
   - Getting Started w/ Boxcutter:
     - Installation: install.md
