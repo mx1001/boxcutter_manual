@@ -18,3 +18,9 @@ Using the hops exporter will ensure the result is triangulated and applied for z
  ![faq](img/zbrush/z3.png)
 
  ![faq](img/zbrush/z2.gif)
+
+# Zbrush Zremesh 3.0 Hard Surface
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XWflWTiOBhw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Michael Pavlovich is a legend and just all around great artist. His zbrush video above shows the new Zbrush 2019 zremesher in action and how it can be controlled better for remeshing while keeping creases.
