@@ -12,6 +12,7 @@ pages:
     - Getting Started: getstarted.md
     - Troubleshooting: troubleshooting.md
     - Interface: interface.md
+    - Fade: fade.md
     - Shapes: shapes.md
     - Hotkeys: hotkeys.md
     - Dots: dots.md
