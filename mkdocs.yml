@@ -47,10 +47,10 @@ pages:
   - Zbrush: zbrush.md
 
   - Releases:
-    - 711: 711.html
-    - 712: 712.html
-    - 713: 713.html
     - 714: 714.html
+    - 713: 713.html
+    - 712: 712.html
+    - 711: 711.html
 
 markdown_extensions:
     - admonition

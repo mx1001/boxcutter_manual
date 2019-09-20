@@ -28,8 +28,21 @@ Strangely they can even persist across new files if set high enough.
 
 # Turning Off Fade
 
-Setting fade to 1 will turn off fade. 
+Setting fade to 1 will turn off fade.
 
 ![image](img/fade/f3.gif)
 
 > I'd never turn off fade.
+
+
+# Fade Sound Effects (easter egg)
+
+Setting the fade out to any of these times will activate a sound effect.
+
+![image](img/fade/f6.png)
+
+> As of version 714_4
+
+![image](img/fade/f5.png)
+
+We hope to expand this into something more musical and entertaining in the future.
