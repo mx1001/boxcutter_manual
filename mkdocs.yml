@@ -8,13 +8,14 @@ pages:
 
   - Getting Started w/ Boxcutter:
     - Installation: install.md
+    - Hotkeys: hotkeys.md
     - Preferences: preference.md
     - Getting Started: getstarted.md
     - Troubleshooting: troubleshooting.md
+    - Edit Mode: edit_mode.md
     - Interface: interface.md
     - Fade: fade.md
     - Shapes: shapes.md
-    - Hotkeys: hotkeys.md
     - Dots: dots.md
 
   - Questions And Answers:
@@ -36,7 +37,6 @@ pages:
     - Make: mode_grey.md
 
   - Tool and Systems:
-    - Edit Mode: edit_mode.md
     - Modal: modal.md
     - Widgets: widgets.md
     - Menus: menus.md
