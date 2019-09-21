@@ -62,7 +62,9 @@ C:/Users/ **USERNAME** /AppData/Roaming/Blender Foundation/Blender/ **2.XX** /sc
 # Mac       
 >Locate Blender in your applications folder     
 
-RMB on the blender.app and select show package contents     
+install from file in Blender works best.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZM_OWHtJsS8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Linux:        
 >I assume linux users know their PC.        
