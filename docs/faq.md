@@ -10,6 +10,13 @@ or choose any other active tool.
 
  ![faq](img/faq/f36.png)
 
+# Why can't I use space to move the shape?
+
+Boxcutter was rewritten for 2.8 and many of the classic tools will have to be reproached. Transform will be added in a future update.
+In the meantime tab for dots and shift to live is available for moving the shape after drawing.
+
+![faq](img/faq/f39.gif)
+
 # Help! I am using RMB select and cannot select multiple objects.
 
 Extra hotkeys are added for our active tool state. Since it is based on default,
