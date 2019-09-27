@@ -4,6 +4,8 @@
 
 To use boxcutter efficiently is to use the hotkeys. You can use boxcutter without them but it takes away from the speed and power we envision for this tool. We have dreams to make it more capable for tablets and be able to use this without a keyboard someday so as more systems are added this should get closer.
 
+> Customizable hotkeys will be added down the road. However since it's using an active tool system the system for adding it is more complicated. The dots added to 714 aim to reduce hotkey usage while adding more functionality.
+
 # Alt + W (start boxcutter)
 
 Pressing alt + W (with your cursor in the 3d view) starts boxcutter. It will also make the topbar popup at the top of the screen.
@@ -96,7 +98,7 @@ If you draw some shapes and alt + Scroll it will cycle cutters. Also pressing C 
 
 # ~ / R - rotate shape
 
-In the event you need to rotate the shape inside of the bounds you can press R.
+In the event you need to rotate the shape inside of the bounds you can press R. This is not the same as traditional rotate which we plan to deal with via gizmo.
 
 R also resets array if it gets out of control.
 
@@ -107,6 +109,10 @@ R also resets array if it gets out of control.
 Tabbing during draw will lock the shape in a paused state for finer edit and rotating the view.
 
 ![start](img/hotkeys/hk10.gif)
+
+In the event you are using LMB or alt + LMB to rotate view and encounter issues. There is this behavior to assist.
+
+![start](img/hotkeys/hk33.gif)
 
 # L - live toggle
 
@@ -173,15 +179,18 @@ Extract is made to take booleans from a mesh and make it into a cutter. Pressing
 
 ![start](img/hotkeys/hk26.gif)
 
-# V - Array / V >> V
+# V - Array / V >> V - Radial Array
 
 Pressing V will bring up array.
 
 - scroll wheel to add / subtract to the count
+- pressing V will toggle to radial array if an array is started
 - press x / y or z to change axis
 - press R to reset if the distance is out of hand.
 
-![start](img/hotkeys/hk21.gif)
+> Array is always in a state of improvement so behaviors may differ from 713 to 714 and in subsequent releases. For example array axis was rotated with R previously but caused ngon misalignment issues so that had to be corrected.
+
+![start](img/hotkeys/hk34.gif)
 
 # T - Solidify
 
@@ -197,6 +206,7 @@ Pressing B will bevel the shape.
 
 - bringing the bevel in to 0 will lower segments to 1 and raise them to 6
 - Q will bevel the underarea of the shape (cube / circle only)
+- scroll wheel during bevel modal to increase / decrease segments
 
 ![start](img/hotkeys/hk23.gif)
 
@@ -205,6 +215,8 @@ Pressing B will bevel the shape.
 Pressing Q during B will trigger contour bevel. Pressing Q without B will jump into bevel then a second Q will go into contour bevel.
 
 ![start](img/hotkeys/hk24.gif)
+
+> In this state you may have to press B to toggle back to bevel and adjust the segements and amount modally since Contour Bevel is a state of bevel. This applies to times when the user goes from neutral shape to a Q contour bevel.
 
 # 1, 2, 3, mirror
 
