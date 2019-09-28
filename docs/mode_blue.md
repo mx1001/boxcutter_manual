@@ -1,3 +1,4 @@
+
 ![header](img/banner.gif)
 
 # Mode: Blue Box
@@ -28,9 +29,27 @@ Below you can see that in action.
 
 ![faq](img/faq/f8.gif)
 
-For some reason this only happens with the hardOps mirror at this time.
+> For some reason this only happens with the hardOps mirror at this time.
 
 ![faq](img/faq/f9.gif)
+
+# Custom Grid Edit Mode cutting
+
+In edit mode using a grid with **no faces** as the custom cutter in 2d will utilize knife project. This can be used to cut edges into models to help them deform easier.   
+
+![mode](img/modes/m47.gif)
+
+> After knife project cutting something like twist 360 can deform the object with array.
+
+![mode](img/modes/m48.gif)
+
+During this gif I did some additional steps.
+
+- deleted faces at merge point (not faces only)
+- mirror (symmetry) for making both sides the same
+- twist 360 to make it a radial on the x-axis
+
+
 
 # Knife box material delete
 
