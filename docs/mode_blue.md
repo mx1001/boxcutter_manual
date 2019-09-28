@@ -5,11 +5,11 @@
 
 Hotkey >> K (during draw)
 
-Blue cut is for knife. When using this tool the geometry will be implied on the mesh. In order to see it you will have to enter edit mode or enable wire view in the 3d view.
+Blue cut is for knife. When using this tool the geometry will be implied on the mesh. In order to see it you will have to enter edit mode or enable wire view in the 3d view. As of version 714 the wire will be shown during operation.
 
 ![mode](img/modes/m23.gif)
 
-I normally use this to clean up booleans or prepare linework for bevels.
+This mode is normally used to cleanup / prepare / optimize booleans or linework for bevels.
 
 ![mode](img/modes/m24.gif)
 
@@ -20,18 +20,6 @@ When using ngon c will cycle cyclic. If you use this with knife you can cut line
 > Having lines that don't converge with corners will result in smoother shading and a better result with the bevel modifier.
 
 ![mode](img/modes/m25.gif)
-
-# Knife cut w/ mirror issues.
-
-When knife cutting it might be needed to turn the mirror off temporarily.
-
-Below you can see that in action.
-
-![faq](img/faq/f8.gif)
-
-> For some reason this only happens with the hardOps mirror at this time.
-
-![faq](img/faq/f9.gif)
 
 # Custom Grid Edit Mode cutting
 
@@ -49,8 +37,6 @@ During this gif I did some additional steps.
 - mirror (symmetry) for making both sides the same
 - twist 360 to make it a radial on the x-axis
 
-
-
 # Knife box material delete
 
 Due to the abnormal workflow that created the Blue box it isn't without glitches. For example when knife box is used the material could disappear.
@@ -58,6 +44,17 @@ We are aware of this issue and hope to fix it but in the meantime but for now yo
 
 ![faq](img/faq/f28.gif)
 
+# Knife cut w/ mirror issues.
+
+When knife cutting it might be needed to turn the mirror off temporarily.
+
+Below you can see that in action.
+
+![faq](img/faq/f8.gif)
+
+> For some reason this only happens with the hardOps mirror at this time.
+
+![faq](img/faq/f9.gif)
 
 # Classic videos on Blue Box
 
