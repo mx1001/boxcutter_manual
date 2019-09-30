@@ -107,6 +107,7 @@ Quick execute will allow you to draw and it will automatically cut through the m
 
 ![install](img/pref/p15.gif)
 
+Quick Execute can be used by default at any point by double clicking/using spacebar before dragging the mouse to set the extrusion amount.
 
 # Apply Slices
 
@@ -166,7 +167,7 @@ Some viewport items like the ctrl + D helper can display incorrectly on retina d
 
 ![install](img/pref/p23.gif)
 
-## Colors
+## Color
 
 The color tab contains many preferences for adjusting your boxcutter experience. Mainly I come here to change the color of snap dots periodically.
 
