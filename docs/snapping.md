@@ -63,6 +63,16 @@ Last but certainly not least is vert snapping. This one gets the least amount of
 
 ![snap](img/snap/s10.gif)
 
+# Grid Snapping
+
+When no object is selected you can also use dots from the grid floor as snap points.
+
+![snap](img/snap/s15.gif)
+
+> Grid uses world coordinates so users may need to change to world to change orientation of dots.
+
+![snap](img/snap/s17.gif)
+
 # Increment Snapping
 
 Increment snap is the only snap that can affect extrude as well.

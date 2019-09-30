@@ -80,9 +80,11 @@ This is what should show in the help panel of the N panel
 
 # LMB / Spacebar - confirm
 
-Double-clicking or pressing spacebar will apply the shape and end the operation. Our tool is configured so that the next operation performed after a cut is cut.
+Double-clicking or pressing spacebar will apply the shape and end the operation. Our tool is configured so that the next operation performed after a cut is cut due to boxcutter being an active tool. Pressing spacebar or double clicking before the extrude portion will trigger lazorcut.
 
 ![start](img/hotkeys/hk6.gif)
+
+> Quick execute is a mode of operation. Lazorcut is the behavior of cutting through the object bypassing the extrude operation.  Quick execute bypasses extrude to jump straight to lazorcut after the initial draw operation. Pressing spacebar before extrude triggers lazorcut without allowing for extrude.
 
 # Shift + confirm - keep shape
 
