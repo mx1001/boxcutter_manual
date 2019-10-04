@@ -29,7 +29,7 @@ that should fix the problem with shift select.
 
 When experiencing [crashes on Mac we need a crash report.](https://hardops-manual.readthedocs.io/en/latest/issues/#mac-help) However opening the terminal causes Blender to be stable. So it is hard to pinpoint.
 
-By rightclicking blender.app and view package contents you can open blender from inside the MacOS folder. This will auto load terminal stopping the crashes. We aren't completely sure why this is occurring but are checking into it. We hope to have a fix in the meantime if Blender itself doesn't resolve things in a future update. At this time the issue appears to only be happening on mac.
+Updating to (2.8)BoxCutter 714_6 or later will resolve the issue. This was resolved on 10-4-2019.
 
 [From the hops docs on the topic.](https://hardops-manual.readthedocs.io/en/latest/issues/#mac-help)
 
@@ -37,21 +37,7 @@ By rightclicking blender.app and view package contents you can open blender from
 
 # How do I fix the issue on mac?
 
-To quote user: redacted
-"Just so you know, I found a way to make things easier for mac users by running the Terminal-Boxcutter-Blender fix with a single click, by doing it via AppleScript:"
-
-
-    tell application "Terminal"
-
-      do script "/Users/joshPolman/Desktop/Blender.app/Contents/MacOS/Blender" -- path of Blender file inside package
-
-    end tell
-
-Running this applescript launches the Blender file inside the package, in Terminal.
-
-The applescript can then be exported as an executable file from ScriptEditor, thus running Blender with the Boxcutter fix with just one click.
-
-[This is the applescript for fixing the issue.](https://www.dropbox.com/s/sjurbmgr1hsowzj/Blender%202.8%20Boxcutter.scpt?dl=0)
+Update to version (2.8)BoxCutter 714_6 or later. 
 
 # How do I install Boxcutter?
 
