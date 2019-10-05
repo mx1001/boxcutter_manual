@@ -46,3 +46,11 @@ Setting the fade out to any of these times will activate a sound effect.
 ![image](img/fade/f5.png)
 
 We hope to expand this into something more musical and entertaining in the future.
+
+# Setting Fade Volume
+
+As of (2.8)BoxCutter 714_10 a parameter for audio was added. If the user is on a fade value mentioned above a volume pref will be shown.
+
+> Default volume is now 10% by default.
+
+![image](img/fade/f7.gif)
