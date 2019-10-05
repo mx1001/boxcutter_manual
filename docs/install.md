@@ -71,12 +71,48 @@ install from file in Blender works best.
 
 ~/.config/blender/ **2.XX** /scripts/addons     
 
-# Support     
+## Support     
 
-Q: I can't install Boxcutter!      
+#Q: I can't install Boxcutter!      
 
->Make sure you copied the contents of the zip into the directory mentioned above. Also try reopening blender. Install from file does not work most of the time so manual installation is recommended.       
+>Make sure you copied the contents of the zip into the directory mentioned above. Also try reopening blender. 
 
-Q: Boxcutter won't enable!       
+#Q: Boxcutter won't enable!       
 
->Try reopening Blender! Also check installation. Boxcutter latest version only works with Blender 2.8 and above. The api changes before will cause issues with old blender.     
+>Try reopening Blender! Also check installation. Boxcutter latest version only works with Blender 2.8 and above. The api changes before will cause issues with old blender.  
+
+# More about installation.
+
+> When it comes to diagnosing issues with install a **screenshot of the issue would help with diagnosing errors**.
+
+The easiest way to restore blender to defaults is to delete the config folder for your blender installation.
+
+The local folder in windows is located at (depending on version):
+
+- C:\Users\RUSER\AppData\Roaming\Blender Foundation\Blender\2.81
+- C:\Users\RUSER\AppData\Roaming\Blender Foundation\Blender\2.80
+
+![faq](img/faq/f40.gif)
+
+> I tend to right click and send my config to a zip so it can be saved for later if needed. To restore it I can delete the new config folder and unzip the archive to this location to restore a previous setup.
+
+**Install from file will not work if the addon is present**
+
+For install from file to work you will need to delete the HOPS / boxcutter folders out of addons. This will ensure a clean installation.
+
+![faq](img/faq/f41.gif)
+
+# Rename 2.8x folder for testing reinstallation
+
+Alternatively you can also try a clean install by just renaming the 2.81 folder and trying install from file then.
+
+This is the method I use to test every support issue involving installation that customers write me about.
+
+- renamed 2.81 folder to 2.81a so Blender won't load it.
+- loaded up Blender which loaded full-screen **indicating prefs have been reset**
+- installed Boxcutter / Hard Ops from file **notice the hang when installing from file**
+- configured prefs for general experience
+
+![faq](img/faq/f42.gif)
+
+By renaming the 2.81 folder I can test a clean install. Afterwards I can delete the new 2.81 folder and rename the old one from (a) to just 2.81 and go on with working without losing my bookmarks, save history, and recent file history.
