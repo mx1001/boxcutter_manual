@@ -25,20 +25,6 @@ that should fix the problem with shift select.
 
 ![faq](img/faq/f38.png)
 
-# Why am I experiencing crashes on Mac?
-
-When experiencing [crashes on Mac we need a crash report.](https://hardops-manual.readthedocs.io/en/latest/issues/#mac-help) However opening the terminal causes Blender to be stable. So it is hard to pinpoint.
-
-Updating to (2.8)BoxCutter 714_6 or later will resolve the issue. This was resolved on 10-4-2019.
-
-[From the hops docs on the topic.](https://hardops-manual.readthedocs.io/en/latest/issues/#mac-help)
-
-![image](https://hardops-manual.readthedocs.io/en/latest/img/issue/i5.gif)
-
-# How do I fix the issue on mac?
-
-Update to version (2.8)BoxCutter 714_6 or later. 
-
 # How do I install Boxcutter?
 
 If updating Blender one must also update the Hard Ops / Boxcutter packages for the latest version.
@@ -413,3 +399,25 @@ However, I will also have you update Blender 2.8.
 Also the help icon in Boxcutter takes you to the discord which I recommend for all users looking for a community to connect to.
 
 ![faq](img/faq/f33.png)
+
+# Why am I experiencing crashes on Mac?
+
+When experiencing [crashes on Mac we need a crash report.](https://hardops-manual.readthedocs.io/en/latest/issues/#mac-help) However opening the terminal causes Blender to be stable. So it is hard to pinpoint.
+
+Updating to (2.8)BoxCutter 714_6 or later will resolve the issue. This was resolved on 10-4-2019.
+
+[From the hops docs on the topic.](https://hardops-manual.readthedocs.io/en/latest/issues/#mac-help)
+
+![image](https://hardops-manual.readthedocs.io/en/latest/img/issue/i5.gif)
+
+# How do I fix the issue on mac?
+
+Update to version **(2.8)BoxCutter 714_6** or later.
+
+# What caused the 714 mac issue?
+
+To quote proxe:
+
+"bc_running prop toggling off during execute was causing a crash. Its a conditional check for things like button clicks during modal. It was determined that setting it to false in the scene caused the crash but moving it from execute to the shader fixed the issue. Several solutions were tried but it was something to do with the false parameter in the execute function. It was able to be toggled off at any other point. But toggling it in execute was an instant crash. Its only an issue for mac inside the execute operator and not present in any other os. There might be a patch or something sitting for depsgraph unapplied that could be causing it. But all we can say it was related to a crash in the execute function."
+
+![gif](https://i.imgur.com/0Rjdm8Z.gif)
