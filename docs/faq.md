@@ -402,9 +402,9 @@ Also the help icon in Boxcutter takes you to the discord which I recommend for a
 
 # Why am I experiencing crashes on Mac?
 
-When experiencing [crashes on Mac we need a crash report.](https://hardops-manual.readthedocs.io/en/latest/issues/#mac-help) However opening the terminal causes Blender to be stable. So it is hard to pinpoint.
+[BoxCutter](https://boxcutter-manual.readthedocs.io/en/latest/install/) must be updated to the latest version. 
 
-Updating to (2.8)BoxCutter 714_6 or later will resolve the issue. This was resolved on 10-4-2019.
+Updating to [(2.8)BoxCutter 714_6](https://boxcutter-manual.readthedocs.io/en/latest/install/) or later will resolve the issue. This was resolved on 10-4-2019.
 
 [From the hops docs on the topic.](https://hardops-manual.readthedocs.io/en/latest/issues/#mac-help)
 
@@ -412,7 +412,7 @@ Updating to (2.8)BoxCutter 714_6 or later will resolve the issue. This was resol
 
 # How do I fix the issue on mac?
 
-Update to version **(2.8)BoxCutter 714_6** or later.
+Update to version **[(2.8)BoxCutter 714_6](https://boxcutter-manual.readthedocs.io/en/latest/install/)** or later.
 
 # What caused the 714 mac issue?
 
