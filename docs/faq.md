@@ -415,3 +415,9 @@ This was thought to have been resolved on 10-4-2019 but appears to still be occu
 Running via terminal appears to be resolving the issue momentarily at this time but we are still checking into it.
 
 ![image](https://hardops-manual.readthedocs.io/en/latest/img/issue/i5.gif)
+
+- Right click blender.app
+- show package contents
+- contents >> MacOS >> Blender
+
+This will open blender from terminal allowing users to work for now. 
