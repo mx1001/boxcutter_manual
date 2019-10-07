@@ -402,9 +402,9 @@ Also the help icon in Boxcutter takes you to the discord which I recommend for a
 
 # Why am I experiencing crashes on Mac?
 
-[BoxCutter](https://boxcutter-manual.readthedocs.io/en/latest/install/) must be updated to the latest version. 
+[BoxCutter](https://boxcutter-manual.readthedocs.io/en/latest/install/) appears to be having issues with the mac at this moment that can be resolved by opening blender via terminal. We are still working out why this is happening but appears to only be an issue on mac. We have been attempting fixes daily to resolve it but MacOS blender differs from Windows/Linux variants.
 
-Updating to [(2.8)BoxCutter 714_6](https://boxcutter-manual.readthedocs.io/en/latest/install/) or later will resolve the issue. This was resolved on 10-4-2019.
+This was thought to have been resolved on 10-4-2019 but appears to still be occurring on mac. We are working on a fix as this is being written and should be up within the next 24 hours as we make progress.
 
 [From the hops docs on the topic.](https://hardops-manual.readthedocs.io/en/latest/issues/#mac-help)
 
@@ -412,12 +412,6 @@ Updating to [(2.8)BoxCutter 714_6](https://boxcutter-manual.readthedocs.io/en/la
 
 # How do I fix the issue on mac?
 
-Update to version **[(2.8)BoxCutter 714_6](https://boxcutter-manual.readthedocs.io/en/latest/install/)** or later.
+Running via terminal appears to be resolving the issue momentarily at this time but we are still checking into it.
 
-# What caused the 714 mac issue?
-
-To quote proxe:
-
-"bc_running prop toggling off during execute was causing a crash. Its a conditional check for things like button clicks during modal. It was determined that setting it to false in the scene caused the crash but moving it from execute to the shader fixed the issue. Several solutions were tried but it was something to do with the false parameter in the execute function. It was able to be toggled off at any other point. But toggling it in execute was an instant crash. Its only an issue for mac inside the execute operator and not present in any other os. There might be a patch or something sitting for depsgraph unapplied that could be causing it. But all we can say it was related to a crash in the execute function."
-
-![gif](https://i.imgur.com/0Rjdm8Z.gif)
+![image](https://hardops-manual.readthedocs.io/en/latest/img/issue/i5.gif)
