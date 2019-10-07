@@ -410,6 +410,12 @@ This was thought to have been resolved on 10-4-2019 but appears to still be occu
 
 ![image](https://hardops-manual.readthedocs.io/en/latest/img/issue/i5.gif)
 
+# Any idea why Mac issues are happening?
+
+After much testing and manipulation we believe it could be possible there is something different with the way Blender handles python compared to other OS's. That could explain why it works via terminal and not standalone. We are working to see if it is something permissions related but at this time it is difficult to determine. We hope to send this issue up to the foundation in an isolated fashion to try and find what differs between mac and pc.
+
+At this time we can trace it down to single lines that are the difference between the working standalone and a ctd situation. However setting it to false will also make the drawing fail to update and refresh. Many of the properties affected are related to operators that make the 3d view update when UI elements are adjusted which are definitely desired and expected behaviors of any tool. 
+
 # How do I fix the issue on mac?
 
 Running via terminal appears to be resolving the issue momentarily at this time but we are still checking into it.
@@ -420,4 +426,4 @@ Running via terminal appears to be resolving the issue momentarily at this time 
 - show package contents
 - contents >> MacOS >> Blender
 
-This will open blender from terminal allowing users to work for now. 
+This will open blender from terminal allowing users to work for now.
