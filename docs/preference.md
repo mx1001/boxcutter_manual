@@ -109,6 +109,14 @@ Quick execute will allow you to draw and it will automatically cut through the m
 
 Quick Execute can be used by default at any point by double clicking/using spacebar before dragging the mouse to set the extrusion amount.
 
+# Auto Ortho
+
+Boxcutter's capabilities in perspective mode are limited. Boxcutter will make the cut but it may not be straight. Orthographic gives the best results in most situation so this will make draw toggle into ortho.
+
+![install](img/pref/p36.gif)
+
+>  In this example you can see how Auto ortho is performing as of the last update. I turned on view align in order to show it working in ortho with a surface starting point but auto ortho can be useful for doing angle based cutting.
+
 # Apply Slices
 
 Apply slices will apply the boolean operation completed by slice on the new object. This can be useful for simplification and preventing tabbing into a full shape when modifying.
