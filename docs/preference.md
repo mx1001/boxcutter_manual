@@ -115,7 +115,7 @@ Boxcutter's capabilities in perspective mode are limited. Boxcutter will make th
 
 ![install](img/pref/p36.gif)
 
->  In this example you can see how Auto ortho is performing as of the last update. I turned on view align in order to show it working in ortho with a surface starting point but auto ortho can be useful for doing angle based cutting.
+>  In this example you can see how Auto ortho is performing as of the last update. I turned on view align in order to show it working in ortho with a surface starting point but auto ortho can be useful for doing angle based cutting. If you find it to be toggling between ortho and perspective and back again you may need to update to the latest version. 
 
 # Apply Slices
 
