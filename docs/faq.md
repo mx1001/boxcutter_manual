@@ -402,9 +402,9 @@ Also the help icon in Boxcutter takes you to the discord which I recommend for a
 
 # Why am I experiencing crashes on Mac?
 
-[BoxCutter](https://boxcutter-manual.readthedocs.io/en/latest/install/) appears to be having issues with the mac at this moment that can be resolved by opening blender via terminal. We are still working out why this is happening but appears to only be an issue on mac. We have been attempting fixes daily to resolve it but MacOS blender differs from Windows/Linux variants.
+[BoxCutter](https://boxcutter-manual.readthedocs.io/en/latest/install/) appears to be having issues with the mac at this moment that can be resolved by opening blender via terminal or using [this script](https://www.dropbox.com/s/sjurbmgr1hsowzj/Blender%202.8%20Boxcutter.scpt?dl=0) which loads the terminal for you. We are still working out why this is happening but appears to only be an issue on mac. We have been attempting fixes daily to resolve it but MacOS blender differs from Windows/Linux variants.
 
-This was thought to have been resolved on 10-4-2019 but appears to still be occurring on mac. We are working on a fix as this is being written and should be up within the next 24 hours as we make progress.
+This was thought to have been resolved on 10-4-2019 but appears to still be occurring on mac. We have been working on a fix as this is being written we hope to update the sales pages the moment we make progress.
 
 [From the hops docs on the topic.](https://hardops-manual.readthedocs.io/en/latest/issues/#mac-help)
 
@@ -414,7 +414,7 @@ This was thought to have been resolved on 10-4-2019 but appears to still be occu
 
 After much testing and manipulation we believe it could be possible there is something different with the way Blender handles python compared to other OS's. That could explain why it works via terminal and not standalone. We are working to see if it is something permissions related but at this time it is difficult to determine. We hope to send this issue up to the foundation in an isolated fashion to try and find what differs between mac and pc.
 
-At this time we can trace it down to single lines that are the difference between the working standalone and a ctd situation. However setting it to false will also make the drawing fail to update and refresh. Many of the properties affected are related to operators that make the 3d view update when UI elements are adjusted which are definitely desired and expected behaviors of any tool. 
+At this time we can trace it down to single lines that are the difference between the working standalone and a ctd situation. However setting it to false will also make the drawing fail to update and refresh. Many of the properties affected are related to operators that make the 3d view update when UI elements are adjusted which are definitely desired and expected behaviors of any tool.
 
 # How do I fix the issue on mac?
 
@@ -426,4 +426,7 @@ Running via terminal appears to be resolving the issue momentarily at this time 
 - show package contents
 - contents >> MacOS >> Blender
 
-This will open blender from terminal allowing users to work for now.
+This will open blender from terminal allowing users to work for now. We understand this to be an inconvenient way to work but it's the current workaround for mac issues.
+
+Also there is an applescript submitted by a user that can also be used in the meantime.
+https://www.dropbox.com/s/sjurbmgr1hsowzj/Blender%202.8%20Boxcutter.scpt?dl=0
