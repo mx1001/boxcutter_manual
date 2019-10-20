@@ -11,15 +11,15 @@ pages:
     - Hotkeys: hotkeys.md
     - Preferences: preference.md
     - Getting Started: getstarted.md
-    - Troubleshooting: troubleshooting.md
     - Edit Mode: edit_mode.md
     - Interface: interface.md
-    - Fade: fade.md
     - Shapes: shapes.md
+    - Fade: fade.md
     - Dots: dots.md
 
   - Questions And Answers:
     - FAQ: faq.md
+    - Troubleshooting: troubleshooting.md
 
   - Shapes (In Depth):
     - Box: shape_box.md
