@@ -28,6 +28,12 @@ Boxcutter has a help area inside of the N panel that populates with options as y
 
 ![start](img/getstart1/g2.gif)
 
+Fade is also new to 714 and dictates how shapes fade and appear. I recommend playing with high numbers and [even checking out the sound effects.](fade.md)
+
+![start](img/getstart1/g9.gif)
+
+> During draw users can also press [tab to edit shapes.](dots.md)
+
 # General Assistance
 
 Boxcutter has a help button which can bring you to our channel for assistance.

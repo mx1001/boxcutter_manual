@@ -333,7 +333,7 @@ Then I download blender, HP Config and the addons and did all again and it worke
 Maybe some files from previous installations
 
 I hope it helps.
-
+.
 ---
 
 # Classic Update Guide

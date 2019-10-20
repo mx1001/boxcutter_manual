@@ -53,6 +53,7 @@ And then Blender is able to be loaded and the addons enabled. Errors indicate th
 ## Detailed Install Instructions    
 
 # Windows 10 / 7        
+
 >When using Blender a folder is created deeply in your PC for add-ons. Putting it       
 here instead of the branch you are using ensures the next updates also have it      
 installed.      
@@ -60,13 +61,15 @@ installed.
 C:/Users/ **USERNAME** /AppData/Roaming/Blender Foundation/Blender/ **2.XX** /scripts/addons        
 
 # Mac       
->Locate Blender in your applications folder     
+
+>From finder in the Go dropdown holding command will expand and show Library where users can access the local data of Blender.
 
 install from file in Blender works best.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZM_OWHtJsS8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Linux:        
+
 >I assume linux users know their PC.        
 
 ~/.config/blender/ **2.XX** /scripts/addons     
@@ -75,7 +78,10 @@ install from file in Blender works best.
 
 #Q: I can't install Boxcutter!      
 
->Make sure you copied the contents of the zip into the directory mentioned above. Also try reopening blender. 
+>If no HOPS / BC folder is present in the local addons directory users should be able to install from file without issue. If the folder is there an error will occur.
+
+Please remove the old boxcutter before installing a new version.
+If a registration error occurs, close / reopen blender to refresh.
 
 #Q: Boxcutter won't enable!       
 
@@ -116,3 +122,9 @@ This is the method I use to test every support issue involving installation that
 ![faq](img/faq/f42.gif)
 
 By renaming the 2.81 folder I can test a clean install. Afterwards I can delete the new 2.81 folder and rename the old one from (a) to just 2.81 and go on with working without losing my bookmarks, save history, and recent file history.
+
+# Performing a clean install without deletion.
+
+It is possible to rename the scripts folder and reinstall cleanly without deletion. This is how I test for installation with customer issues. Instead of removing everything I just put it to the side for a moment and then test with a clean setup. For a super clean install rename the 2.8x folder. Otherwise renaming scripts or prefixing it with an _ will help.
+
+![install](img/install/ins4.gif)
