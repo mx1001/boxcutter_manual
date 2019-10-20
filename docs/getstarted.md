@@ -65,3 +65,11 @@ You'll find in edit mode none of the booleans show if you have been working in n
 [Box](shape_box.md), [Circle](shape_circle.md), [Ngon](shape_ngon.md) and custom are in boxcutter and can be a fun time for various things.
 
 ![start](img/getstart1/g4.gif)
+
+# Enable a sound effect
+
+By setting the [fade exit to a specific number users can make sound effects](fade.md) occur!
+
+> In this example an exit fade of 123 was used.
+
+![start](img/getstart1/g10.gif)

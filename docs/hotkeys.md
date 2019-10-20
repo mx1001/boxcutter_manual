@@ -106,15 +106,15 @@ R also resets array if it gets out of control.
 
 ![start](img/hotkeys/hk9.gif)
 
-# Tab - lock shape
+# Tab - Edit Mode Dots / Pause Mode
 
-Tabbing during draw will lock the shape in a paused state for finer edit and rotating the view.
+Tabbing during draw will lock the shape in a paused state for finer edit and rotating the view. [Dots will also be available](dots.md) for use for modification.
 
 ![start](img/hotkeys/hk10.gif)
 
 In the event you are using LMB or alt + LMB to rotate view and encounter issues. There is this behavior to assist.
 
-![start](img/hotkeys/hk33.gif)
+![start](img/hotkeys/hk33.png)
 
 # L - live toggle
 
