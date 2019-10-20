@@ -4,6 +4,14 @@
 
 Issues are bound to occur when using Booleans and concept modelling workflows. There are support tools across hardOps and boxCutter for making the process easier.
 
+# Why is this cutting weird?
+
+When it comes to troubleshooting cutting the first thing you want to check is orientation. Notice how different world and surface can behave when it comes to affecting draw.
+
+![troubleshooting](img/troubleshooting/ts16.gif)
+
+> World is intended to be used as a fallback in the event a surface isn't present for draw. We believe that starting out drawing without a selection can trigger the orientation to be in this mode so awareness is key for being on top of orientation.
+
 # Why does my bevel look weird?
 
 First, let's check face orientation.

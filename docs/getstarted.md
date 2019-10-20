@@ -44,6 +44,10 @@ Help can also be found inside of the behavior panel at the bottom.
 
 # Applying booleans
 
+![start](img/getstart1/g8.png)
+
+Booleans can be applied using the button highlighted above.
+
 You'll find in edit mode none of the booleans show if you have been working in non-destructive. As a result there is an option up top to apply booleans.
 
 ![start](img/getstart1/g3.gif)
