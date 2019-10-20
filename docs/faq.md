@@ -17,6 +17,14 @@ In the meantime tab for dots and shift to live is available for moving the shape
 
 ![faq](img/faq/f39.gif)
 
+# Why do I have 2 snap panels?
+
+Sometimes when exiting boxcutter Blender's redraw of the panel for updates can lag unless you hover the mouse over it.
+
+> When the mouse is over the header it triggers a redraw, something blender does to conserve resources, not sure if there is a way to fix it.
+
+![faq](img/faq/f43.gif)
+
 # Help! I am using RMB select and cannot select multiple objects.
 
 Extra hotkeys are added for our active tool state. Since it is based on default,
