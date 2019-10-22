@@ -12,6 +12,73 @@ When it comes to troubleshooting cutting the first thing you want to check is or
 
 > World is intended to be used as a fallback in the event a surface isn't present for draw. We believe that starting out drawing without a selection can trigger the orientation to be in this mode so awareness is key for being on top of orientation.
 
+# After reading the manual I still have problems with cutting. Can take a look of this behavior?
+
+Q: Step1. Mode CUT, Shape SQUARE. Draw a small square...
+
+![troubleshooting](img/troubleshooting/ts17.png)
+
+and then I get this:
+
+![troubleshooting](img/troubleshooting/ts18.png)
+
+This problem drives me crazy. I have this odd behavior since day one. Sometimes instead of a square I get a circle cut. On my PC the program acts randomly. Like if I try to do one cut the program could do 3 different thing while the cut function is on.
+
+A: If you release alt before LMB the center draw will revert on box draw (Default)
+
+![troubleshooting](img/troubleshooting/ts19.gif)
+
+>Alt **during draw** triggers center draw
+>shift **during draw** triggers box draw
+
+Alternatively there is also center draw which removes the need for alt. During tab to edit hotkeys to modify during draw dot also remain present and available.
+
+![troubleshooting](img/troubleshooting/ts20.gif)
+
+Extended Response:
+
+When it comes to shapes, [this page covers shapes](https://boxcutter-manual.readthedocs.io/en/latest/shapes/)
+
+The topbar will tell you what shape is in use.
+
+![troubleshooting](img/troubleshooting/ts21.png)
+
+As long as it says box its a box. However sometimes if the shape is "too" small it can trigger something called repeat which is the last shape made. [Lowering the limit](https://boxcutter-manual.readthedocs.io/en/latest/preference/#lazercut-limit) can be capable of fixing it as well. But I would have to see the issue in action to give a proper analysis.
+
+I have never heard a report of it cutting a shape that was not intended but id have to see it in action. When we [can see what is causing grief it makes it much easier for us to analyze](https://hardops-manual.readthedocs.io/en/latest/issues/#helping-us-help-you) it.
+
+Using the current version I took a crack at making the shape. To break down the process.
+
+![troubleshooting](img/troubleshooting/ts22.gif)
+
+> I added a cylinder and rotated it sideways and applied scale with ctrl + a >> scale before the gif.
+
+- using drew a box and used shift to live to adjust the shape and modify it in edit mode.
+- for the second shape I used [hops >> q >> operations >> modifier toggle](https://hardops-manual.readthedocs.io/en/latest/operations/#modifier-toggle) to turn off modifiers to get a good center dot and made the second cut.
+[During draw pressing alt will do a center draw.](https://boxcutter-manual.readthedocs.io/en/latest/shape_box/)
+- for the second cut I [tabbed to live](https://boxcutter-manual.readthedocs.io/en/latest/dots/) and used bevel instead of blender's edit mode
+- using the bevel command added a bevel on top which required some edge cleanup with I used J in edit mode to [provide some guidance edges.](https://hardops-manual.readthedocs.io/en/latest/discussion_cylinoid/#fixing-boolean-flows-w-bevel)
+
+
+When it comes to drawing using center. It can be set in the topbar here.
+
+![troubleshooting](img/troubleshooting/ts23.png)
+
+I don't normally change it there since it can be modified with the alt key during draw.
+This is the normal box behavior. With corner draw.
+
+![troubleshooting](img/troubleshooting/ts24.gif)
+
+With alt being used during draw. Center is used.
+
+![troubleshooting](img/troubleshooting/ts25.gif)
+
+Alt + Shift will make it constraint to center. Making a perfect center box draw.
+While drawing with left mouse you can also pause with right mouse click and adjust the shape more finely from there.
+
+![troubleshooting](img/troubleshooting/ts26.gif)
+
+
 # Why does my bevel look weird?
 
 First, let's check face orientation.
