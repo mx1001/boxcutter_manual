@@ -115,7 +115,7 @@ Boxcutter's capabilities in perspective mode are limited. Boxcutter will make th
 
 ![install](img/pref/p36.gif)
 
->  In this example you can see how Auto ortho is performing as of the last update. I turned on view align in order to show it working in ortho with a surface starting point but auto ortho can be useful for doing angle based cutting. If you find it to be toggling between ortho and perspective and back again you may need to update to the latest version. 
+>  In this example you can see how Auto ortho is performing as of the last update. I turned on view align in order to show it working in ortho with a surface starting point but auto ortho can be useful for doing angle based cutting. If you find it to be toggling between ortho and perspective and back again you may need to update to the latest version.
 
 # Apply Slices
 
@@ -211,9 +211,17 @@ Here I will show the versatility of the topbar.
 
 Distance the mesh drawn is from the surface.
 
+> Mesh is offset by default to prevent hotlining and ensure fluid boolean working.
+
 # Lazercut limit
 
 Determines size for lazercut to be triggered.
+
+Sometimes if the shape is "too" small boxcutter can trigger make the last shape instead of the desired shape due to something called repeat. [Lowering the limit](https://boxcutter-manual.readthedocs.io/en/latest/preference/#lazercut-limit) can be capable of fixing it as well.
+
+![troubleshooting](img/troubleshooting/ts28.png)
+
+![troubleshooting](img/troubleshooting/ts27.gif)
 
 # Circle Vertices
 

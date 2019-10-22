@@ -27,7 +27,7 @@ and then I get this:
 This problem drives me crazy. I have this odd behavior since day one. Sometimes instead of a square I get a circle cut. On my PC the program acts randomly. Like if I try to do one cut the program could do 3 different thing while the cut function is on.
 
 A: If you release alt before LMB the center draw will revert on box draw (Default)
-
+**Applying scale is crucial. If the scale is unapplied things like lazorcut will not work properly.**
 ![troubleshooting](img/troubleshooting/ts19.gif)
 
 >Alt **during draw** triggers center draw
@@ -41,11 +41,19 @@ Extended Response:
 
 When it comes to shapes, [this page covers shapes](https://boxcutter-manual.readthedocs.io/en/latest/shapes/)
 
+Boxcutter has [box](shape_box.md), [circle](shape_circle.md), [ngon](shape_ngon.md), and [custom](shape_custom.md) as [shapes so technically it could do multiple types of shapes](shapes.md) if the [topbar isn't being payed attention](interface.md) to.
+
 The topbar will tell you what shape is in use.
 
 ![troubleshooting](img/troubleshooting/ts21.png)
 
-As long as it says box its a box. However sometimes if the shape is "too" small it can trigger something called repeat which is the last shape made. [Lowering the limit](https://boxcutter-manual.readthedocs.io/en/latest/preference/#lazercut-limit) can be capable of fixing it as well. But I would have to see the issue in action to give a proper analysis.
+As long as it says box its a box. However sometimes if the shape is "too" small it can trigger something called repeat which is the last shape made. [Lowering the limit](https://boxcutter-manual.readthedocs.io/en/latest/preference/#lazercut-limit) can be capable of fixing it as well.
+
+![troubleshooting](img/troubleshooting/ts28.png)
+
+![troubleshooting](img/troubleshooting/ts27.gif)
+
+> Above image is the lazorcut issue that can be triggered when drawing too small.
 
 I have never heard a report of it cutting a shape that was not intended but id have to see it in action. When we [can see what is causing grief it makes it much easier for us to analyze](https://hardops-manual.readthedocs.io/en/latest/issues/#helping-us-help-you) it.
 
