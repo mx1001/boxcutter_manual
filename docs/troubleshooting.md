@@ -4,6 +4,8 @@
 
 Issues are bound to occur when using Booleans and concept modelling workflows. There are support tools across hardOps and boxCutter for making the process easier.
 
+[When it comes to reporting issues there are ways to best convey to us what is going on as well.  ](https://hardops-manual.readthedocs.io/en/latest/issues/#helping-us-help-you)
+
 # Why is this cutting weird?
 
 When it comes to troubleshooting cutting the first thing you want to check is orientation. Notice how different world and surface can behave when it comes to affecting draw.
