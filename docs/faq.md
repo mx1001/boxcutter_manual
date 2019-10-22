@@ -10,12 +10,16 @@ or choose any other active tool.
 
  ![faq](img/faq/f36.png)
 
+ ---
+
 # Why can't I use space to move the shape?
 
 Boxcutter was rewritten for 2.8 and many of the classic tools will have to be reproached. Transform will be added in a future update.
 In the meantime tab for dots and shift to live is available for moving the shape after drawing.
 
 ![faq](img/faq/f39.gif)
+
+---
 
 # Why do I have 2 snap panels?
 
@@ -25,6 +29,8 @@ Sometimes when exiting boxcutter Blender's redraw of the panel for updates can l
 
 ![faq](img/faq/f43.gif)
 
+---
+
 # Help! I am using RMB select and cannot select multiple objects.
 
 Extra hotkeys are added for our active tool state. Since it is based on default,
@@ -32,6 +38,16 @@ when using RMB select swap cursor button to other hotkey or uncheck it.
 that should fix the problem with shift select.
 
 ![faq](img/faq/f38.png)
+
+---
+
+# Whenever I try to cut, the cutter slices through the object like if it was lazer cutting. Did I change the wrong settings?
+
+Make sure [quick execute is not on.](https://boxcutter-manual.readthedocs.io/en/latest/preference/#quick-execute)
+
+ ![faq](img/faq/f44.png)
+
+ ---
 
 # How do I install Boxcutter?
 
