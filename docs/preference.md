@@ -223,6 +223,8 @@ Sometimes if the shape is "too" small boxcutter can trigger make the last shape 
 
 ![troubleshooting](img/troubleshooting/ts27.gif)
 
+>> Having this too low will affect lazorcut so working at so small a scale is not recommended. 
+
 # Circle Vertices
 
 Segments used on circle. Can also be changed in the tool and on the fly.
