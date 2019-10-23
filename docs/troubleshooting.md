@@ -26,7 +26,13 @@ Something as simple as relaxing the transition and redrawing the geometry can al
 
 # Why is this cutting weird?
 
-When it comes to troubleshooting cutting the first thing you want to check is orientation. Notice how different world and surface can behave when it comes to affecting draw.
+When it comes to troubleshooting cutting the first thing **you want to check is orientation**.
+
+![troubleshooting](img/troubleshooting/ts31.png)
+
+> World is a fallback. For drawing on meshes typically surface is desired. This may need to be changed if this is not the case. 
+
+Notice how different world and surface can behave when it comes to affecting draw.
 
 ![troubleshooting](img/troubleshooting/ts16.gif)
 
