@@ -12,6 +12,12 @@ First is the draw. and then the extrude. Click and let go and click to apply.
 
 > You can draw and extrude or you can draw click and just lazorcut through the model.
 
+# Wire / Solid Drawing Toggle
+
+Pressing H during draw will use wire instead of solid.
+
+![mode](img/shape/s52.gif)
+
 # Center, Corner and Uniform Draw
 
 For this to work the following prefs must be enabled. They are on by default and should only be off if your keymap is so odd that it is unable to be explained.
@@ -39,7 +45,7 @@ Here you can see them in action.
 
 ![mode](img/shape/s10.gif)
 
-> Since extractions changes over to simple shape thats why the gif ended with custom shapes.
+> Since extractions changes over to simple shape that is why the shape transitioned over to custom.
 
 # Box Operations
 
