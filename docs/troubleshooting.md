@@ -15,6 +15,7 @@ An example of how it could be fixed is shown below.
 ![troubleshooting](img/troubleshooting/ts30.gif)
 
 A few notes
+
 - disabled bevel and then used ctrl + click on bevel in hops Q >> Modifier >> Menu to add a new bevel on the edge in question
   - pressed 3 for profile of 1 and segements of 3 for a conversion bevel
 - during bevel operation p can be pressed to move the mouse to set profile to 1 to destructively use the bevel to space geo
@@ -131,6 +132,7 @@ Face orientation is located in the viewport area of the 3d view.
 # Why did my extraction fail?
 
 Extractions can be strict at this moment with the following rules:
+
 - extract only takes live Booleans
 - extract only works on meshes with applied rotation / scale / location
 
@@ -171,6 +173,7 @@ To first create the situation.
 ![troubleshooting](img/troubleshooting/ts11.gif)
 
 We could solve this by using:
+
 - mirror (bisect) *this will need to be applied before using booleans again*
 - bevel (3 segements / profile 1)
 - isolation loops
