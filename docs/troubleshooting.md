@@ -6,6 +6,23 @@ Issues are bound to occur when using Booleans and concept modelling workflows. T
 
 [When it comes to reporting issues there are ways to best convey to us what is going on as well.  ](https://hardops-manual.readthedocs.io/en/latest/issues/#helping-us-help-you)
 
+# How do I fix the shading here?
+
+![troubleshooting](img/troubleshooting/ts29.png)
+
+An example of how it could be fixed is shown below.
+
+![troubleshooting](img/troubleshooting/ts30.gif)
+
+A few notes
+- disabled bevel and then used ctrl + click on bevel in hops Q >> Modifier >> Menu to add a new bevel on the edge in question
+  - pressed 3 for profile of 1 and segements of 3 for a conversion bevel
+- during bevel operation p can be pressed to move the mouse to set profile to 1 to destructively use the bevel to space geo
+- this can work in most cases to an acceptable extent but the goal of this workflow is to reduce stress on the bevel modifier to make it work more predictably
+
+Something as simple as relaxing the transition and redrawing the geometry can also relax the surface and result in a better finish.
+![troubleshooting](img/troubleshooting/ts31.gif)
+
 # Why is this cutting weird?
 
 When it comes to troubleshooting cutting the first thing you want to check is orientation. Notice how different world and surface can behave when it comes to affecting draw.
