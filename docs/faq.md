@@ -21,6 +21,26 @@ In the meantime tab for dots and shift to live is available for moving the shape
 
 ---
 
+# Why doesn't my shape draw correctly?
+
+Check the orientation / alignment.
+
+![align](img/align/a1.png)
+
+If object is set as the alignment the drawing will align to surface which is the desired behavior.
+
+> Below you can see how world differs from object and how when world is set the drawing may not perform as desired.
+
+![align](img/align/a7.gif)
+
+# How can I prevent perspective from changing?
+
+Auto Ortho in behaviors.
+
+![faq](img/faq/f45.png)
+
+___
+
 # Why do I have 2 snap panels?
 
 Sometimes when exiting boxcutter Blender's redraw of the panel for updates can lag unless you hover the mouse over it.

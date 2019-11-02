@@ -62,7 +62,7 @@ To show them all in action:
 
 # Repeat
 
-Ctrl + double clicking will repeat the last operation.
+Ctrl + double clicking will repeat the last operation. With fade now the shapes stay behind longer depending on fade time.
 
 ![mode](img/shape/s26.gif)
 
