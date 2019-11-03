@@ -20,6 +20,10 @@ D will bring up a pie menu that has all the most important options handy.
 
 ![start](img/hotkeys/hk2.png)
 
+> Circle, Custom, and Ngon are listed. The missing option is the active tool. In this case. Box. To maintain the appearance of the pie we show only the tools no active in the pie. Seeing custom only means another shape is selected.
+
+> Looking at the topbar will also show what shape is active and in use. 
+
 # Ctrl + D (mini helper)
 
 Ctrl + D during boxcutter will bring up a mini helper with options that change dynamically to be the most useful on the fly.

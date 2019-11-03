@@ -139,6 +139,38 @@ The help shows this as well during draw.
 
 ---
 
+# When making cuts using the D pie, sometimes options to do circle, box or N-gon are present. However other times I will have the 'custom' option instead of the box, what exactly is causing this change and how can I ensure that I always have access to the box cut option?
+
+This is how the pie works.
+
+![start](img/hotkeys/hk2.png)
+
+The option not listed is selected. Normally the pie offers ngon, box, and circle. When a shape is selected the former option is replaced with custom as an offering. This changes nothing with the tool. Just ensures the option being offered is not redundant.
+
+Looking at the top bar will let you know what shape is currently being drawn.
+
+![faq](img/faq/f46.png)
+
+To show this in action.
+
+![faq](img/faq/f47.gif)
+
+> Notice that once a tool is selected the custom option replaces it because there would be no need to select the same tool twice. The pie menu can be fickle with layout so our setup is to ensure the pie looks the same each time it is brought up.
+
+---
+
+# Once I have made a cut with a shape e.g. circle. The next time I go to make another cut, this previous shape I used will be replaced with the 'custom' shape. How can I make it so that I am able to cut with the same shape multiple times in a row?
+
+This [only happens which extraction.](https://boxcutter-manual.readthedocs.io/en/latest/mode_black/)
+
+> Notice that after using an extraction the shape is changed to custom and the extraction is set as the cutter. This is intended behavior.
+
+![faq](img/faq/f48.gif)
+
+
+
+---
+
 # I can't use the Industry Standard Kepmap with the ctrl + D helper!
 
 This is because that keymap hardcodes hotkeys which replace the normal hotkey. For boxcutter to work you may have to remap or disable duplicate.
