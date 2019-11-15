@@ -493,3 +493,13 @@ If you are experiencing crashing, terminal output would be key to finding out wh
 # How do I fix the issue on mac?
 
 Updating to version (2.8)BoxCutter 714_15 or later should resolve the issue. Customers are reporting issues are resolved.
+
+# Hi, Is there a trial version available of box cutter?
+
+No.
+
+Due to the small size of our team and the ever changing nature of Blender we would not be able to code a limited feature version and perform maintenance on that in addition to the main product.
+
+This video provides more information on what Boxcutter contains.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H3093mifDoI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
