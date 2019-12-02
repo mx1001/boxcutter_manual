@@ -8,11 +8,11 @@ Snapping can be started from the top bar using the magnet icon.
 
 ![snap](img/snap/s1.gif)
 
-Next to the snap icon is the grid snap icon. By enabling this snap will be enabled along with grid snap.
+Next to the snap icon is the grid snap icon. By enabling this snap will be enabled along with [grid](https://masterxeon1001.com/2019/12/01/boxcutter-715-update-log/) snap.
 
 There is also a dropdown for specifics. You can set snap to:
 
-- grid
+- [grid](https://masterxeon1001.com/2019/12/01/boxcutter-715-update-log/)
 - vertice
 - edge midpoint
 - face center
@@ -31,9 +31,9 @@ Holding ctrl with boxcutter active will cause grid / dots to show up for start p
 
 ![snap](img/snap/s4.gif)
 
-# Grid
+# [Grid](https://masterxeon1001.com/2019/12/01/boxcutter-715-update-log/)
 
-Grid is next to snap and be enabled by clicking the button. When active grid will show up during ctrl.
+[Grid](https://masterxeon1001.com/2019/12/01/boxcutter-715-update-log/) is next to snap and be enabled by clicking the button. When active grid will show up during ctrl.
 
 ![snap](img/snap/s18.gif)
 

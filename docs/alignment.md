@@ -18,74 +18,88 @@ N-Panel
 
 ![align](img/align/a3.png)
 
-# View Aligned Drawing
+# Gridfinite Grid
+<a href="https://twitter.com/proxeIO">Proxe</a> has once again outdone himself on the 715 release. The released version of grid is the 3rd iteration with the first 2 not being adequate enough for release. AR also remains integral and made the initial prototype.
 
-[View aligned is a throwback to the retro boxcutter of yore.](https://masterxeon1001.com/2016/04/26/box-cutter-guide-v1/)
+This grid is infinite. Users can press ctrl during boxcutter to grab a face vector and go to work. There is even a fade and color change system to make it visually pleasing.
 
-When unchecked the drawing will always be aligned to view which works great in orthographic.
+<img class="alignnone size-full wp-image-3587" src="https://masterxeon1001.files.wordpress.com/2019/12/9txq5k1xuu.gif" alt="9tXQ5K1xUU.gif" width="1139" height="631" />
 
-![align](img/align/a4.png)
+The previous system utilizing dots would only go so far.
 
-> View align will also make the snap dots view align which can be a gotcha if you aren't aware so keep that in mind.
+<img class="alignnone size-full wp-image-3588" src="https://masterxeon1001.files.wordpress.com/2019/12/vvd4cdkcfs.gif" alt="vVD4CDkCfs.gif" width="1138" height="632" />
 
-This can come in handy when working conceptually.
+Also the previous dot system wasn't made for snapping. Just initial orientation.
 
-![align](img/align/a5.gif)
+<img class="alignnone size-full wp-image-3592" src="https://masterxeon1001.files.wordpress.com/2019/12/deny8ux9ig.gif" alt="dEnY8Ux9ig.gif" width="1139" height="628" />
 
-You can also use view align to work from the side and then rotate the view and align however the plane for creation might be uniquely offset. But working with the view align is essential enough that it remains in the topbar for quick use.
+Thanks to this drawing with precision is faster and more capable than ever.
 
-![align](img/align/a6.gif)
+<img class="alignnone size-full wp-image-3589" src="https://masterxeon1001.files.wordpress.com/2019/12/jip6hbfrkg.gif" alt="JIP6HbFRkg.gif" width="1139" height="631" />
 
-# Alternative Draw Surfaces
+And without limits.
 
-When it comes to using boxcutter drawing on the surface uses something called surface to orient your cutter sometimes when using solidify or modelling tricky objects the normals and thus the orientation can get hard to deal with.
+The new grid system will be taking over all alignment systems in the future going forward as it is further refined. Our initial release isn't perfect but serves as a demo of what we are aiming to go for. As with as systems as it gets perfected it will be right at home and an integral part of the boxcutter workflow.
 
-Boxcutter has a series of options intended to make working with unusual surfaces easier.
+<img class="alignnone size-full wp-image-3604" src="https://masterxeon1001.files.wordpress.com/2019/12/64tvq5zjbm.gif" alt="64tVq5ZJBM.gif" width="1135" height="634" />
 
-# World
+<img class="alignnone size-full wp-image-3622" src="https://masterxeon1001.files.wordpress.com/2019/12/sr6k0oa767.gif" alt="Sr6K0oA767.gif" width="1351" height="686" /> Try grabbing a face vector and doing an offset cut![/caption]
 
-To show orientation differences we'll show how surface differs from world.
 
-![align](img/align/a7.gif)
+# Surface Align
 
-> The above gif should show world in action and how it can make drawing on surfaces difficult but it does have a use.
+Surface align is a work in progress. When object is active the grid will attempt to orient to the surface for snapping via the grid. In the event of directional inaccuracy simply drawing without grid is more optimal.
 
-# Surface
+<img class="alignnone size-full wp-image-3590" src="https://masterxeon1001.files.wordpress.com/2019/12/wltglacekx.gif" alt="wlTgLACEKX.gif" width="1139" height="631" />
 
-Surface is the default and is recommended for 90% of use cases involving meshes. Surface requires the draw begin *with the mouse over the mesh*. Drawing outside of the mesh triggers world since there is no nearest surface as the fallback. In my personal use of the tool I switch between surface and cursor grid (no gizmo) for working on complex surfaces.
+<img class="alignnone size-full wp-image-3629" src="https://masterxeon1001.files.wordpress.com/2019/12/klkjzfnkoe.gif" alt="KLKjZfNkOe.gif" width="1351" height="663" />
 
-> If your drawing isn't working with the selection. Make sure the surface orientation is set.
 
-![align](img/align/a8.gif)
+# View Align
 
-# Cursor
+View align uses the classic systems from previous releases. Grid has not been integrated yet but will in the future. View align works in perspective and orthographic.
 
-> Cursor is a work in progress. That said is is usable to an extent less than what I'd personally like.
+<img class="alignnone size-full wp-image-3591" src="https://masterxeon1001.files.wordpress.com/2019/12/i2psmeaylb.gif" alt="i2PSMEayLB.gif" width="1139" height="628" />
+<h2>Cursor</h2>
 
-To show cursor in action:
+I am excited to say cursor has been improved dramatically. In this update the cursor can be used for grid positioning and orientation however I hope to create support tools for assisting with getting the perfect cursor alignment.
 
-![align](img/align/a9.gif)
+<img class="alignnone size-full wp-image-3593" src="https://masterxeon1001.files.wordpress.com/2019/12/deny8ux9ig-1.gif" alt="dEnY8Ux9ig.gif" width="1139" height="628" />
 
-A few things to note:
+When it comes to using grid with cursor. Aligning the 3d cursor to an edge can be useful.
 
-- with the default configuration of LMB select / shift + RMB places the Cursor
-- cursor "Z" axis uses the rotation of the cursor the way intended
-- the alt + W hotkey has a toggle in the behavior >> input >> Enable Surface Toggle checkbox
+<img class="alignnone size-full wp-image-3618" src="https://masterxeon1001.files.wordpress.com/2019/12/5ncbpia3db.gif" alt="5NcbpiA3DB.gif" width="1351" height="686" />
 
-![align](img/align/a10.png)
+Then use cursor as alignment. This can come in handy for hard to reach areas.
 
-An option for removing the gizmo is also present in the event you just need the cursor grid.
+<img class="alignnone size-full wp-image-3619" src="https://masterxeon1001.files.wordpress.com/2019/12/vurxt40jjs.gif" alt="vurXT40jJS.gif" width="1351" height="686" />
+<h2>World</h2>
 
-> Which makes this much easier to work with personally.
+Last but not least the fallback of fallbacks received the same updates. Now with grid the world is better positioned for level design and make box work.
 
-![align](img/align/a11.gif)
+<img class="alignnone size-full wp-image-3595" src="https://masterxeon1001.files.wordpress.com/2019/12/wyjp1zdupw.gif" alt="wYjP1ZDUpW.gif" width="1135" height="634" />
 
-When this state is active you can use cursor for orientation with drawing.
+# Grid Performance
 
-> And press alt + W to exit and toggle state if the grid isn't showing initially.
+Having a grid that is infinite means that a larger grid size is not needed due to the grid generating as you move. However adding more units than 10 can result in some heavy performance and is not recommended for slower PCs.
 
-![align](img/align/a12.gif)
+<em>Even I don't go past 10.</em>
 
-Unfortunately snapping dots do not work with cursor grid at this time.
+<img class="alignnone size-full wp-image-3596" src="https://masterxeon1001.files.wordpress.com/2019/12/fkwjf334al.gif" alt="FkWjF334Al.gif" width="1135" height="634" />
 
-> We intend to expand on this idea multi-fold in future versions.
+Some of the lower configs look quite interesting.
+
+2 gives us an idea for a future tool. And 0 is no grid at all and can be interesting to use as well. We may add a preset panel in a future release.
+
+<img class="alignnone size-full wp-image-3628" src="https://masterxeon1001.files.wordpress.com/2019/12/efe5p6tdqf.gif" alt="eFE5P6Tdqf.gif" width="1351" height="663" />
+
+
+# Grid Color
+
+Grid is typically grey but in the examples I have grid color checked which makes the grid the same color as the cutter in use. This should be more useful for helping visually know what is about to happen.
+
+This can be turned off under display in the behavior panel.
+
+<img class="alignnone size-full wp-image-3597" src="https://masterxeon1001.files.wordpress.com/2019/12/ydmi1gsyty.gif" alt="ydmI1GSyTy.gif" width="1135" height="634" />
+
+<img class="alignnone size-full wp-image-3598" src="https://masterxeon1001.files.wordpress.com/2019/12/sharex_uhbuakyk7j.png" alt="ShareX_uHbUakYk7J.png" width="226" height="377" />
