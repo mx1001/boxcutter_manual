@@ -21,6 +21,24 @@ In the meantime tab for dots and shift to live is available for moving the shape
 
 ---
 
+# How can I cut with precision?
+
+Boxcutter was not made with that emphasis due to boolean limitations.
+
+In edit mode with edge lengths enabled users can see how deep they are cutting as well as see measurements.
+
+![faq](img/faq/f49.gif)
+
+In this mode shift to live is available for keeping live and adjusting in object mode.
+
+Grid is also made to work with a degree of precision and control.
+
+Ctrl + double click will repeat the last operation which can make repeating easier.
+
+![faq](img/faq/f50.gif)
+
+---
+
 # Why doesn't my shape draw correctly?
 
 Check the orientation / alignment.
