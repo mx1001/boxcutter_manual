@@ -24,13 +24,35 @@ A few notes
 Something as simple as relaxing the transition and redrawing the geometry can also relax the surface and result in a better finish.
 ![troubleshooting](img/troubleshooting/ts31.gif)
 
+# Hotlining
+
+Hotlining is when an edge being cut is precisely on another edge.
+
+![troubleshooting](img/troubleshooting/ts32.gif)
+
+Simply moving the mesh from the hot-lined area will resolve this.
+
+![troubleshooting](img/troubleshooting/ts33.gif)
+
+One of the byproducts of working with a degree of accuracy is the potential for hotlining.
+
+![troubleshooting](img/troubleshooting/ts34.gif)
+
+![troubleshooting](img/troubleshooting/ts35.gif)
+
+Hard Ops has Mod Scroll / Toggle in the main menu for the very reason of accessing cutters quickly and adjusting them.
+
+![troubleshooting](img/troubleshooting/ts36.png)
+
+Default operation is boolscroll which is essential for dealing with booleans when they need to be adjusted. Rolling backwards will grab the last cutter quickly giving you access to the last cutter. 
+
 # Why is this cutting weird?
 
 When it comes to troubleshooting cutting the first thing **you want to check is orientation**.
 
 ![troubleshooting](img/troubleshooting/ts31.png)
 
-> World is a fallback. For drawing on meshes typically surface is desired. This may need to be changed if this is not the case. 
+> World is a fallback. For drawing on meshes typically surface is desired. This may need to be changed if this is not the case.
 
 Notice how different world and surface can behave when it comes to affecting draw.
 
