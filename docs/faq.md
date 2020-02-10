@@ -12,6 +12,26 @@ or choose any other active tool.
 
  ---
 
+# Why has Boxcutter gotten slower since the initial 2.8 version?
+
+ On a technical level.
+
+ When boxcutter 700 for 2.8 launched the goal was speed and real-time performance.
+
+2.8 itself was optimized for speed and performance and somewhere along the way the application changed.
+
+ However as the releases went on. Blender 2.8 began changing. Around the 710 era the depsgraph was changed which broke everything overnight. So to go forward we had to figure out how to get things back running and fast. But the depsgraph update remains incomplete but is the core of how Blender evaluates data. 
+
+ So while Blender is more "complete" with these changes the byproduct was a heavy performance hit but the end of cyclic dependencies which were another struggle experience with parenting etc. We remain aware and diligent of the speed issues and continue to pressure the foundation for performance being a major component for users to enjoy the #b3d experience properly.
+
+ https://blenderartists.org/t/blender-2-8-viewport-performance/1114143/1121
+
+  ![faq](img/faq/f51.png)
+
+ We are following the [viewport discussion closely and the foundation has put forth their intentions to improve it but it will get better one way or another](https://code.blender.org/2020/01/2020-blender-big-projects/) but it remains a big focus for us here.
+
+ ___
+
 # Why can't I use space to move the shape?
 
 Boxcutter was rewritten for 2.8 and many of the classic tools will have to be reproached. Transform will be added in a future update.
