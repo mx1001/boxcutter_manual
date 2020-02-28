@@ -22,11 +22,19 @@ D will bring up a pie menu that has all the most important options handy.
 
 > Circle, Custom, and Ngon are listed. The missing option is the active tool. In this case. Box. To maintain the appearance of the pie we show only the tools no active in the pie. Seeing custom only means another shape is selected.
 
-> Looking at the topbar will also show what shape is active and in use. 
+> Looking at the topbar will also show what shape is active and in use.
+
+# Shift + V - View Menu
+
+Shift + V will show a view menu allowing for quick orientation checking or switching.
+
+![start](img/hotkeys/hk42.gif)
 
 # Ctrl + D (mini helper)
 
 Ctrl + D during boxcutter will bring up a mini helper with options that change dynamically to be the most useful on the fly.
+
+***Rotation angle pertains to rotation which is mapped to R***
 
 ![start](img/hotkeys/hk3.png)
 
@@ -35,6 +43,8 @@ Ctrl + D during boxcutter will bring up a mini helper with options that change d
 [Holding ctrl and moving the cursor over the mesh will reveal snapping dots for the enabled options.](snapping.md)
 
 >Dots will only show if snapping is enabled and a highlight option is selected for the selection. These are intended for box, circle and custom.
+
+If grid is disabled a single dot will show with snapping enabled to show orientation.
 
 ![start](img/hotkeys/hk32.gif)
 
@@ -47,6 +57,22 @@ applies to:
 - [box](shape_box.md)
 - [circle](shape_circle.md)
 - [custom](shape_custom.md)
+
+# G - Grab / R - Rotate / S - Scale
+
+X,Y, or Z to constrain to an axis.
+
+Grab allows for free movement. It is based on the first axis drawn from.
+
+![start](img/hotkeys/hk39.gif)
+
+Rotate allows for rotation.
+
+![start](img/hotkeys/hk40.gif)
+
+Scale also lives up to it's name.
+
+![start](img/hotkeys/hk41.gif)
 
 # Alt / Shift and Alt + Shift (during draw) Draw Modifiers
 
@@ -88,9 +114,14 @@ Double-clicking or pressing spacebar will apply the shape and end the operation.
 
 ![start](img/hotkeys/hk6.gif)
 
-> Quick execute is a mode of operation. Lazorcut is the behavior of cutting through the object bypassing the extrude operation.  Quick execute bypasses extrude to jump straight to lazorcut after the initial draw operation. Pressing spacebar before extrude triggers lazorcut without allowing for extrude.
+> Quick execute is a mode of operation.
+Lazorcut is the behavior of cutting through the object bypassing the extrude operation.  
+Quick execute bypasses extrude to jump straight to lazorcut after the initial draw operation.
+Release lock allows for the shape to be paused after draw allowing for fine translation.
 
-# Shift + confirm - keep shape
+***Pressing spacebar before extrude triggers lazorcut without allowing for extrude.***
+
+# Shift + confirm - keep shape (shift to live)
 
 Referred to as shift to live. If you are holding shift on confirmation you will keep the shape behind for editing. The sstatus of the shape will be boolshape so hardOps will be able to help with is as well.
 
@@ -102,17 +133,15 @@ If you draw some shapes and alt + Scroll it will cycle cutters. Also pressing C 
 
 ![start](img/hotkeys/hk8.gif)
 
-# ~ / R - rotate shape
+# Shift + ~ - rotate shape inside
 
-In the event you need to rotate the shape inside of the bounds you can press R. This is not the same as traditional rotate which we plan to deal with via gizmo.
-
-R also resets array if it gets out of control.
+In the event you need to rotate the shape inside of the bounds you can press Shift + ~. This is not the same as traditional rotate which we plan to deal with via gizmo.
 
 ![start](img/hotkeys/hk9.gif)
 
 # Tab - Edit Mode Dots / Pause Mode
 
-Tabbing during draw will lock the shape in a paused state for finer edit and rotating the view. [Dots will also be available](dots.md) for use for modification.
+Tabbing during draw will lock the shape in a paused state for finer edit and rotating the view. [Dots will also be available](dots.md) for use for modification. G, S, and R is also available for use in pause mode.
 
 ![start](img/hotkeys/hk10.gif)
 
@@ -120,20 +149,24 @@ In the event you are using LMB or alt + LMB to rotate view and encounter issues.
 
 ![start](img/hotkeys/hk33.png)
 
+# Alt + D - Toggle Dots
+
+Alt + D will toggle dots during draw. This can make for a quieter boxcutter experience.
+
+![start](img/hotkeys/hk35.gif)
+
 # L - live toggle
 
-Pressing L will keep the shape drawn live. Perfect for future edit.
+Pressing L will keep the shape drawn live. Perfect for future edit. This can also be toggled in the behavior panel.
 
 ![start](img/hotkeys/hk11.gif)
 
-# E - extrude
+# E - extrude / # O - offset
 
 When in paused state E will toggle extrude and O will toggle offset allowing you to adjust the extrusion on the top and bottom faces. This is mainly used from pause. But sometimes you will need this duirng draw to deal with flush.
 
 > Hitting E a second time will toggle which face is being pushed.
 ![start](img/hotkeys/hk12.gif)
-
-# O - offset
 
 Pressing O will adjust the offset of the top face only. Comparatively E is capable of doing both.
 
@@ -143,7 +176,7 @@ Pressing O will adjust the offset of the top face only. Comparatively E is capab
 
 Sometimes the solid shape can get in the way. Pressing H during draw will toggle wire draw.
 
-![start](img/hotkeys/hk12.gif)
+![start](img/hotkeys/hk36.gif)
 
 # X - slice
 
@@ -152,6 +185,12 @@ During draw pressing X will change to a slice.
 > Also able to be toggled in the mini helper.
 
 ![start](img/hotkeys/hk15.gif)
+
+# Alt + X - Recut (mod of slice)
+
+Recut is a modification of slice intended to cut and retrieve areas of the mesh previously removed via cutting.
+
+![start](img/hotkeys/hk38.gif)
 
 # Z - inset
 
@@ -167,11 +206,17 @@ J toggles a union draw which is represented by green.
 
 # K - Knife Box
 
-K toggles knife box. Which is used to cutting geometry with edges instead of boolean operations.
+K toggles knife box. Which is used for cutting edges into geometry.
 
 > Requires wireframes to be showing to see.
 
 ![start](img/hotkeys/hk18.gif)
+
+# Shift + K - HOPS Mark (requires hardOps)
+
+Hops mark will utilize hardOps marking preferences to mark the newly cut perimeter with sharpened lines. This can be useful for guiding quad remesher.
+
+![start](img/hotkeys/hk37.gif)
 
 # A - Make
 
@@ -192,7 +237,7 @@ Pressing V will bring up array.
 - scroll wheel to add / subtract to the count
 - pressing V will toggle to radial array if an array is started
 - press x / y or z to change axis
-- press R to reset if the distance is out of hand.
+- press Shift + R to reset if the distance is out of hand.
 
 > Array is always in a state of improvement so behaviors may differ from 713 to 714 and in subsequent releases. For example array axis was rotated with R previously but caused ngon misalignment issues so that had to be corrected.
 
@@ -233,6 +278,6 @@ Press 1, 2, and 3 for mirror on the Xyz respectively.
 - 3 for z axis
 - press number a 2nd time to flip axis.
 
->>Be careful with the axis drawn on when using this as a start operation. It is a gotcha to draw on a side that has been bisected mirroed off. Be mindful of the axis you leave it in because it will not appear on the wrong side when this is set as a start operation.
+>>Be careful with the axis drawn on when using this as a start operation. It is a gotcha to draw on a side that has been bisected mirrored off. Be mindful of the axis you leave it in because it will not appear on the wrong side when this is set as a start operation.
 
 ![start](img/hotkeys/hk25.gif)
