@@ -14,6 +14,14 @@ Pressing alt + W (with your cursor in the 3d view) starts boxcutter. It will als
 
 > Without Boxcutter started none of the below hotkeys apply.
 
+> Boxcutter's alt + W also switches with hopstool on the fly.
+
+# W - Exit boxcutter
+
+W changes active tool to select which changes the active tool from boxcutter thus exiting it.
+
+![start](img/hotkeys/hk43.gif)
+
 # D (pie menu)
 
 D will bring up a pie menu that has all the most important options handy.
@@ -163,7 +171,7 @@ Pressing L will keep the shape drawn live. Perfect for future edit. This can als
 
 ![start](img/hotkeys/hk11.gif)
 
-# E - extrude / # O - offset
+# E - extrude /  O - offset
 
 When in paused state E will toggle extrude and O will toggle offset allowing you to adjust the extrusion on the top and bottom faces. This is mainly used from pause. But sometimes you will need this duirng draw to deal with flush.
 
