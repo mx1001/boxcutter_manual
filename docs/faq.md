@@ -20,7 +20,7 @@ or choose any other active tool.
 
 2.8 itself was optimized for speed and performance and somewhere along the way the application changed.
 
- However as the releases went on. Blender 2.8 began changing. Around the 710 era the depsgraph was changed which broke everything overnight. So to go forward we had to figure out how to get things back running and fast. But the depsgraph update remains incomplete but is the core of how Blender evaluates data. 
+ However as the releases went on. Blender 2.8 began changing. Around the 710 era the depsgraph was changed which broke everything overnight. So to go forward we had to figure out how to get things back running and fast. But the depsgraph update remains incomplete but is the core of how Blender evaluates data.
 
  So while Blender is more "complete" with these changes the byproduct was a heavy performance hit but the end of cyclic dependencies which were another struggle experience with parenting etc. We remain aware and diligent of the speed issues and continue to pressure the foundation for performance being a major component for users to enjoy the #b3d experience properly.
 
@@ -38,6 +38,23 @@ Boxcutter was rewritten for 2.8 and many of the classic tools will have to be re
 In the meantime tab for dots and shift to live is available for moving the shape after drawing.
 
 ![faq](img/faq/f39.gif)
+
+---
+
+# I always try to line up my cuts with an edge and get artifacts and problems, maybe this new update will solve some of this.
+
+
+No. It will not. This issue is beyond the capability of us using python. Unless we auto-nudged it. As in moved the mesh away from an edge.
+
+If you cut on an edge with a boolean, that will cause hot-lining. In order to cut the rule of overshoot must be followed. Never let a cut sit precisely on an edge.
+
+***hot-lining refers to doing a boolean operation precisely on an edge or vert***
+
+Notice how after subdivision that I am able to snap and cut exactly on it which causes an error. This is the cost of us attempting to be accurate while blender remains incapable of coplanar booleans at this time. This may be fixed in the future. 
+
+It corrects the moment the hotline is fixed.
+
+![faq](img/faq/f52.gif)
 
 ---
 
