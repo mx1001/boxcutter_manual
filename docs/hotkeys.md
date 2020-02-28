@@ -64,6 +64,8 @@ X,Y, or Z to constrain to an axis.
 
 Grab allows for free movement. It is based on the first axis drawn from.
 
+***Shift dragging the offset dot allow for free translation***
+
 ![start](img/hotkeys/hk39.gif)
 
 Rotate allows for rotation.

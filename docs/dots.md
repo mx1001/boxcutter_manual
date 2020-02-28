@@ -6,22 +6,30 @@
 
 While drawing a shape. **press tab** to enter edit mode.
 
+Alternatively release lock allows for the shape to automatically pause. With lazorcut lock lazorcut can also automatically be stepped into a live state.
+
 ![image](img/dots/d1.gif)
 
 Box possesses dots for the following:
 
 - extrude(depth)
-- offset (surface)
+- offset (surface) **shift dragging will translate on a 2d plane**
 - draw
-- bevel (bevel and contour via hidden offset dot)
+- bevel (bevel)
 
 To show modifying these dots in action:
 
 ![image](img/dots/d2.gif)
 
-To apply just click the shape.
+To apply just click the shape or press spacebar.
 
 ![image](img/dots/d3.gif)
+
+# Dot Toggle
+
+Alt + D will toggle dots off and on. Dots off still allows for hotkeys and can result in a quieter experience.
+
+![image](img/dots/d12.gif)
 
 # Dot Draw Manipulation
 
