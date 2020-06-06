@@ -19,6 +19,7 @@ N-Panel
 ![align](img/align/a3.png)
 
 # Gridfinite Grid
+
 <a href="https://twitter.com/proxeIO">Proxe</a> has once again outdone himself on the 715 release. The released version of grid is the 3rd iteration with the first 2 not being adequate enough for release. AR also remains integral and made the initial prototype.
 
 This grid is infinite. Users can press ctrl during boxcutter to grab a face vector and go to work. There is even a fade and color change system to make it visually pleasing.

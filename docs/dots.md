@@ -4,9 +4,9 @@
 
 # Shape Edit Mode
 
-While drawing a shape. **press tab** to enter edit mode.
+While drawing a shape. **press tab** to enter edit mode and pause the shape.
 
-Alternatively release lock allows for the shape to automatically pause. With lazorcut lock lazorcut can also automatically be stepped into a live state.
+Alternatively release lock allows for the shape to automatically pause. With lazorcut lock, lazorcut can also automatically be stepped into a live state.
 
 ![image](img/dots/d1.gif)
 
