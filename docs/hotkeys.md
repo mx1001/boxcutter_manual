@@ -304,4 +304,14 @@ Press 1, 2, and 3 for mirror on the Xyz respectively.
 
 # C - Ngon Cyclic
 
-Ngon t
+Ngon typically draws manifold shapes but with C it can convert to a panel cut on the fly. 
+
+![start](img/hotkeys/hk45.gif)
+
+Ngon also has a button on the topbar for toggling the cyclic state.
+
+![start](img/hotkeys/hk47.png)
+
+This can also be adjusted via the ctrl + D helper.
+
+![start](img/hotkeys/hk46.png)
