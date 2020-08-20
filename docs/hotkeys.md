@@ -38,6 +38,8 @@ Shift + V will show a view menu allowing for quick orientation checking or switc
 
 ![start](img/hotkeys/hk42.gif)
 
+> Auto perspective is not recommended for use w/ BC so under view it can be seen as an option for disable if enabled.
+
 # Ctrl + D (mini helper)
 
 Ctrl + D during boxcutter will bring up a mini helper with options that change dynamically to be the most useful on the fly.
@@ -171,6 +173,8 @@ Pressing L will keep the shape drawn live. Perfect for future edit. This can als
 
 ![start](img/hotkeys/hk11.gif)
 
+> Holding shift on apply of draw is the same as L for live. 
+
 # E - extrude /  O - offset
 
 When in paused state E will toggle extrude and O will toggle offset allowing you to adjust the extrusion on the top and bottom faces. This is mainly used from pause. But sometimes you will need this duirng draw to deal with flush.
@@ -202,9 +206,15 @@ Recut is a modification of slice intended to cut and retrieve areas of the mesh 
 
 ![start](img/hotkeys/hk38.gif)
 
-# Z - inset
+# X >> X - Intersect
 
-Z toggles current shape into inset. During inset thickness can be adjusted with T and moving the mouse. There is also a property in the mini panel for this.
+Intersect is possible as of 716 and can be accessed via pressing X twice during draw.
+
+![start](img/hotkeys/hk44.gif)
+
+# X >> X >> X or I - Inset
+
+I a toggles current shape into inset. During inset thickness can be adjusted with T and moving the mouse. There is also a property in the mini panel for this.
 
 ![start](img/hotkeys/hk16.gif)
 
@@ -286,8 +296,12 @@ Press 1, 2, and 3 for mirror on the Xyz respectively.
 - 1 for x axis
 - 2 for y axis
 - 3 for z axis
-- press number a 2nd time to flip axis.
+- press shift + number a to flip axis.
 
 >>Be careful with the axis drawn on when using this as a start operation. It is a gotcha to draw on a side that has been bisected mirrored off. Be mindful of the axis you leave it in because it will not appear on the wrong side when this is set as a start operation.
 
 ![start](img/hotkeys/hk25.gif)
+
+# C - Ngon Cyclic
+
+Ngon t
