@@ -34,27 +34,9 @@ or choose any other active tool.
 
 # Why can't I use space to move the shape?
 
-Boxcutter was rewritten for 2.8 and many of the classic tools will have to be reproached. Transform will be added in a future update.
-In the meantime tab for dots and shift to live is available for moving the shape after drawing.
-
-![faq](img/faq/f39.gif)
-
----
-
-# I always try to line up my cuts with an edge and get artifacts and problems, maybe this new update will solve some of this.
-
-
-No. It will not. This issue is beyond the capability of us using python. Unless we auto-nudged it. As in moved the mesh away from an edge.
-
-If you cut on an edge with a boolean, that will cause hot-lining. In order to cut the rule of overshoot must be followed. Never let a cut sit precisely on an edge.
-
-***hot-lining refers to doing a boolean operation precisely on an edge or vert***
-
-Notice how after subdivision that I am able to snap and cut exactly on it which causes an error. This is the cost of us attempting to be accurate while blender remains incapable of coplanar booleans at this time. This may be fixed in the future. 
-
-It corrects the moment the hotline is fixed.
-
-![faq](img/faq/f52.gif)
+Boxcutter was rewritten for 2.8 and many of the classic tools will have to be reproached. Transform is possible with G.
+Shift dragging the extrusion dot also allows for transform.
+![faq](img/faq/f53.gif)
 
 ---
 
