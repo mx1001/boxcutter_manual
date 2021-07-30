@@ -12,8 +12,6 @@ It is recommended to switch to the D helper for a more focused experience.
 
 Pressing alt + W (with your cursor in the 3d view) starts boxcutter. It will also make the topbar popup at the top of the screen.
 
-![start](img/hotkeys/hk1.gif)
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/S4IiGGZVhBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1SHhjt7rzMM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -256,6 +254,14 @@ I a toggles current shape into inset. During inset thickness can be adjusted wit
 ![start](img/hotkeys/hk16.gif)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1bDKfvHvdOw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+# Ctrl + X during Inset - Inset Slice
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uCAUpqBK6FE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Inset can also be examined via Debug
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ON-P1qUSxL8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # J - Join
 
