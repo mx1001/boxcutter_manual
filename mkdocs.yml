@@ -44,6 +44,7 @@ pages:
     - Operations: operations.md
     - Snapping: snapping.md
     - Alignment: alignment.md
+    - Grid: grid.md
 
   - Tips & Tricks: tips.md
   - Zbrush: zbrush.md
