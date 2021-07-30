@@ -34,5 +34,14 @@ Inset has it's own playlist which can be explored below. There are multiple aspe
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLjqpj14voWsX3gApGml2-CF_GIbggnkx0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+# Inset Launch Content 
 
+## boxcutter 711 : Basic Introduction And L1 Demo
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8qtEPLT2YnY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## boxcutter 717_15 - Update Log (introduction of inset slice)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yhCSAaXHIIE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## boxcutter 718_10 - Release Log (reintroduction of inset recut)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B26T-RzBFp8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
