@@ -8,47 +8,31 @@ Purple cut is inset. This will slice the mesh, add a solidify and push the mesh 
 
 > Since this uses the solidify large values will get problematic.
 
-![mode](img/modes/m14.gif)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLjqpj14voWsX3gApGml2-CF_GIbggnkx0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Pressing T during operation will adjust the thickness but also pressing ctrl + D brings up the mini helper for fine adjustment.
+Pressing T during operation will adjust the thickness but also pressing D or Ctrl + D brings up the mini helper for fine adjustment.
 
-# Inset w/ Curved surfaces.
-
-Inset works especially well with curved surfaces.
-That can be seen in the example(s) below.
-
-![mode](img/modes/m15.gif)
-
-![mode](img/modes/m16.gif)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DFExZObNf60" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Behaviors
 
-Inset has no preset specialized behaviors at this time.
+Inset has inset slice and recut as alternative behaviors modifying inset. 
+
+Inset Slice
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uCAUpqBK6FE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Inset Recut
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ymCv5qvzPs4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##  Things to be aware of with inset.
 
-# Inset can have issues w/ complex geometry
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1bDKfvHvdOw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-The trickier the surface w/ complexity, the harder of a time you will have with inset.
+# Inset Playlist
 
-![mode](img/modes/m36.gif)
+Inset has it's own playlist which can be explored below. There are multiple aspects to be aware of with inset to get the most out of it.
 
-> Inset works well for the blocking in phase of models but once multiple levels of bevel are present it will more than likely omit the top levels.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLjqpj14voWsX3gApGml2-CF_GIbggnkx0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-It works fine with one level of bevel. Assuming the width isn't too big.
 
-![mode](img/modes/m37.gif)
 
-Let's try it with multiple levels. While it works the multiple levels were not taken into consideration to these situations must be handled differently. As you can see inset will not work here without applying.
-
-![mode](img/modes/m38.gif)
-
-# Inset Launch Content
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8qtEPLT2YnY" frameborder="0" allowfullscreen></iframe>
-
-Model out a curved shape and try purple box on it! Its fun for making spaceships! Of course with Hard Ops (alt + X) mirror do not use bisect (creates a hole) use modifier.
-
-![mode](img/modes/m44.gif)
-
-![mode](img/modes/m45.gif)

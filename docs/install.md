@@ -8,6 +8,12 @@ The [official version](https://www.blender.org/download/) on the website is alwa
 
 ---
 
+## Installation Video
+
+This video covers installation in depth making the rest of the page "extra".
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VCM9zJ2wm3c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Boxcutter Installation     
 
 Updating Blender requires the latest updates.
