@@ -8,6 +8,12 @@ Purple cut is inset. This will slice the mesh, add a solidify and push the mesh 
 
 > Since this uses the solidify large values will get problematic.
 
+> Debug can also assist with inset and the slight curve it contains with understanding. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ON-P1qUSxL8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+This was a demo from the launch version of inset back in 711. It has grown as seen down the page. 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLjqpj14voWsX3gApGml2-CF_GIbggnkx0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Pressing T during operation will adjust the thickness but also pressing D or Ctrl + D brings up the mini helper for fine adjustment.
@@ -19,9 +25,11 @@ Pressing T during operation will adjust the thickness but also pressing D or Ctr
 Inset has inset slice and recut as alternative behaviors modifying inset. 
 
 Inset Slice
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uCAUpqBK6FE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Inset Recut
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ymCv5qvzPs4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##  Things to be aware of with inset.
