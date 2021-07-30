@@ -12,7 +12,7 @@ Purple cut is inset. This will slice the mesh, add a solidify and push the mesh 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ON-P1qUSxL8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-This was a demo from the launch version of inset back in 711. It has grown as seen down the page. 
+Inset also has it's own playlist.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLjqpj14voWsX3gApGml2-CF_GIbggnkx0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
