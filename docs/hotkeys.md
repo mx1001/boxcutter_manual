@@ -4,7 +4,9 @@
 
 To use boxcutter efficiently is to use the hotkeys. You can use boxcutter without them but it takes away from the speed and power we envision for this tool. We have dreams to make it more capable for tablets and be able to use this without a keyboard someday so as more systems are added this should get closer.
 
-> Customizable hotkeys will be added down the road. However since it's using an active tool system the system for adding it is more complicated. The dots added to 714 aim to reduce hotkey usage while adding more functionality.
+It is recommended to switch to the D helper for a more focused experience.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLjqpj14voWsWksWGQp2Bb_8qldRlujmHm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Alt + W (start boxcutter)
 
@@ -12,9 +14,15 @@ Pressing alt + W (with your cursor in the 3d view) starts boxcutter. It will als
 
 ![start](img/hotkeys/hk1.gif)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S4IiGGZVhBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1SHhjt7rzMM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 > Without Boxcutter started none of the below hotkeys apply.
 
 > Boxcutter's alt + W also switches with hopstool on the fly.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HvzEzM7mSdE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # W - Exit boxcutter
 
@@ -22,15 +30,19 @@ W changes active tool to select which changes the active tool from boxcutter thu
 
 ![start](img/hotkeys/hk43.gif)
 
-# D (pie menu)
+# D (Pie menu / Boxhelper)
 
 D will bring up a pie menu that has all the most important options handy.
 
 ![start](img/hotkeys/hk2.png)
 
-> Circle, Custom, and Ngon are listed. The missing option is the active tool. In this case. Box. To maintain the appearance of the pie we show only the tools no active in the pie. Seeing custom only means another shape is selected.
+> Circle, Custom, and Ngon are listed. The missing option is the active shape. In this case. Box. To maintain the appearance of the pie we show only the tools no active in the pie. Seeing custom only means another shape is selected.
 
 > Looking at the topbar will also show what shape is active and in use.
+
+As of 718_9 users can opt into having the Boxhelper as D instead of the pie however it has to be opted into.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qCABKvC_peE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Shift + V - View Menu
 
@@ -40,6 +52,8 @@ Shift + V will show a view menu allowing for quick orientation checking or switc
 
 > Auto perspective is not recommended for use w/ BC so under view it can be seen as an option for disable if enabled.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/erccZPYVn2g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # Ctrl + D (mini helper)
 
 Ctrl + D during boxcutter will bring up a mini helper with options that change dynamically to be the most useful on the fly.
@@ -47,6 +61,8 @@ Ctrl + D during boxcutter will bring up a mini helper with options that change d
 ***Rotation angle pertains to rotation which is mapped to R***
 
 ![start](img/hotkeys/hk3.png)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLjqpj14voWsWksWGQp2Bb_8qldRlujmHm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Ctrl (Snapping dots)
 
@@ -87,6 +103,8 @@ Scale also lives up to it's name.
 ![start](img/hotkeys/hk41.gif)
 
 # Alt / Shift and Alt + Shift (during draw) Draw Modifiers
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PY7yk0cG5rc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Box defaults to corner draw. Which looks like this:
 
@@ -139,11 +157,18 @@ Referred to as shift to live. If you are holding shift on confirmation you will 
 
 ![start](img/hotkeys/hk7.gif)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dsAYHfk5SDI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # C / Alt + Scroll - cycle cutters
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHjLp1mhLBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 If you draw some shapes and alt + Scroll it will cycle cutters. Also pressing C will do it. This is scrolling the objects in the collection "cutters" so if nothing is present issues may occur.
 
 ![start](img/hotkeys/hk8.gif)
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E6YGpKZpbJc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Shift + ~ - rotate shape inside
 
@@ -151,7 +176,11 @@ In the event you need to rotate the shape inside of the bounds you can press Shi
 
 ![start](img/hotkeys/hk9.gif)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WKfXdBwx2Rc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # Tab - Edit Mode Dots / Pause Mode
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WKfXdBwx2Rc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Tabbing during draw will lock the shape in a paused state for finer edit and rotating the view. [Dots will also be available](dots.md) for use for modification. G, S, and R is also available for use in pause mode.
 
@@ -175,6 +204,8 @@ Pressing L will keep the shape drawn live. Perfect for future edit. This can als
 
 > Holding shift on apply of draw is the same as L for live. 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mI3zOd8rYgg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # E - extrude /  O - offset
 
 When in paused state E will toggle extrude and O will toggle offset allowing you to adjust the extrusion on the top and bottom faces. This is mainly used from pause. But sometimes you will need this duirng draw to deal with flush.
@@ -192,6 +223,8 @@ Sometimes the solid shape can get in the way. Pressing H during draw will toggle
 
 ![start](img/hotkeys/hk36.gif)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D9R8qmBN7wc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # X - slice
 
 During draw pressing X will change to a slice.
@@ -202,9 +235,11 @@ During draw pressing X will change to a slice.
 
 # Alt + X - Recut (mod of slice)
 
-Recut is a modification of slice intended to cut and retrieve areas of the mesh previously removed via cutting.
+Recut is a modification of slice intended to cut and retrieve areas of the mesh previously removed via cutting. This available for both slice and inset. 
 
-![start](img/hotkeys/hk38.gif)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZYkGUwiwrqk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sF5BEeYjw94" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # X >> X - Intersect
 
@@ -212,17 +247,23 @@ Intersect is possible as of 716 and can be accessed via pressing X twice during 
 
 ![start](img/hotkeys/hk44.gif)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ahpKNvISIwc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # X >> X >> X or I - Inset
 
 I a toggles current shape into inset. During inset thickness can be adjusted with T and moving the mouse. There is also a property in the mini panel for this.
 
 ![start](img/hotkeys/hk16.gif)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1bDKfvHvdOw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # J - Join
 
 J toggles a union draw which is represented by green.
 
 ![start](img/hotkeys/hk17.gif)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tlwExsokW2M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # K - Knife Box
 
@@ -232,11 +273,15 @@ K toggles knife box. Which is used for cutting edges into geometry.
 
 ![start](img/hotkeys/hk18.gif)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bBEDz6vd-l0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # Shift + K - HOPS Mark (requires hardOps)
 
 Hops mark will utilize hardOps marking preferences to mark the newly cut perimeter with sharpened lines. This can be useful for guiding quad remesher.
 
 ![start](img/hotkeys/hk37.gif)
+
+https://youtu.be/v50cXf6B-2k
 
 # A - Make
 
@@ -244,11 +289,15 @@ A toggles make box which is just a regular box or shape. No booleans just a raw 
 
 ![start](img/hotkeys/hk19.gif)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i9g7oUy-gVY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # Y - Extract
 
 Extract is made to take booleans from a mesh and make it into a cutter. Pressing Y brings up the black box which is the extractor. This can be a fun time. Taking shapes out and giving them back to the surface. After extraction the mesh will be made into a custom cutter and primed for use.
 
 ![start](img/hotkeys/hk26.gif)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gljb2ggaN-Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # V - Array / V >> V - Radial Array
 
@@ -263,6 +312,8 @@ Pressing V will bring up array.
 
 ![start](img/hotkeys/hk34.gif)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CXpEU2rX9UE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # T - Solidify
 
 Pressing T during draw will add thickness to the cut.
@@ -270,6 +321,8 @@ Pressing T during draw will add thickness to the cut.
 - pressing 1, 2, 3, adjusts the offset to be inside or outside
 
 ![start](img/hotkeys/hk22.gif)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DFExZObNf60" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # B - Bevel
 
@@ -281,6 +334,8 @@ Pressing B will bevel the shape.
 
 ![start](img/hotkeys/hk23.gif)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oYuxtIuCIb4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # Q - Contour Bevel
 
 Pressing Q during B will trigger contour bevel. Pressing Q without B will jump into bevel then a second Q will go into contour bevel.
@@ -288,6 +343,8 @@ Pressing Q during B will trigger contour bevel. Pressing Q without B will jump i
 ![start](img/hotkeys/hk24.gif)
 
 > In this state you may have to press B to toggle back to bevel and adjust the segements and amount modally since Contour Bevel is a state of bevel. This applies to times when the user goes from neutral shape to a Q contour bevel.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CwIcv_sWiM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # 1, 2, 3, mirror
 
@@ -302,6 +359,8 @@ Press 1, 2, and 3 for mirror on the Xyz respectively.
 
 ![start](img/hotkeys/hk25.gif)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmjiY1r05qE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # C - Ngon Cyclic
 
 Ngon typically draws manifold shapes but with C it can convert to a panel cut on the fly. 
@@ -315,3 +374,5 @@ Ngon also has a button on the topbar for toggling the cyclic state.
 This can also be adjusted via the ctrl + D helper.
 
 ![start](img/hotkeys/hk46.png)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LP2QNWdi19A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
