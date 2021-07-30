@@ -16,7 +16,7 @@ Inset also has it's own playlist.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLjqpj14voWsX3gApGml2-CF_GIbggnkx0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Pressing T during operation will adjust the thickness but also pressing D or Ctrl + D brings up the mini helper for fine adjustment.
+Pressing T during operation will adjust the thickness but also [pressing D or Ctrl + D](https://www.youtube.com/watch?v=fE8QzzRPgrY&list=PLjqpj14voWsWksWGQp2Bb_8qldRlujmHm&index=1&t=66s) brings up the mini helper for fine adjustment.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DFExZObNf60" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
