@@ -1,87 +1,63 @@
 ![header](img/banner.gif)
 
-## Re-Introducing Dots
+## Dots
+
+Dots serve as a simplified approach to snap based cutting without the intricacies of a grid. We also have an expansive grid system but dots are optimized for speed. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q7q4PoiWh7U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Topbar Snap Area
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XpJ7gOcYfw0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Shape Edit Mode
 
 While drawing a shape. **press tab** to enter edit mode and pause the shape.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oC4TLUdnoHw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Alternatively release lock allows for the shape to automatically pause. With lazorcut lock, lazorcut can also automatically be stepped into a live state.
 
-![image](img/dots/d1.gif)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CrU6wNVvaZw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Box possesses dots for the following:
 
-- extrude(depth)
-- offset (surface) **shift dragging will translate on a 2d plane**
-- draw
-- bevel (bevel)
+# Dots have alternative modes behaving slightly different
 
-To show modifying these dots in action:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DB9MbeXs_0g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-![image](img/dots/d2.gif)
 
-To apply just click the shape or press spacebar.
+# Dot Alternative Behavior
 
-![image](img/dots/d3.gif)
+Dots contain alternative behavior as seen in the video below.
 
-# Dot Toggle
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ztDxDLwTuLU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Alt + D will toggle dots off and on. Dots off still allows for hotkeys and can result in a quieter experience.
+# Static Dots
 
-![image](img/dots/d12.gif)
+Static dots are an alternative to the dynamic dot system used by default. It also offers additional benefits differing from dynamic. Static as a system expands beyond dots to also grid as shown below.
 
-# Dot Draw Manipulation
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dx03pmwMBP4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-On the corner of a shape is the draw dot. Move this to adjust the shape.
+## Alignment Preview
 
-![image](img/dots/d4.gif)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XUqEUme5t8Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-While pressing alt users can uniform adjust the shape.
+## Alignment Roll
 
-![image](img/dots/d5.gif)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fA_HUDnfz30" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-And shift for constrain square.
-
-![image](img/dots/d6.gif)
-
-# Using Dots to perfect radial array.
-
->> Pressing V triggers array V a 2nd time triggers radial array (during draw)
-
-In the pause state of radial array users can use the draw dot with alt and shift to constrain to uniform and create shapes better suited for radial array.
-
-![image](img/dots/d7.gif)
-
-# Dots w/ Circle
-
-Custom / Circle also has dots similar to box.
-
->> Bevel dot is present but contour wont show in circle.
-
-![image](img/dots/d8.gif)
-
-And custom shape.
-
->> Notice custom doesnt have the bevel 0dot.
-
-![image](img/dots/d9.gif)
 
 # Ngon Dots
 
 To be written. They will be there though.
 
-# Dot prefs
+# Dot fade options (Dynamic Only)
 
 Using fade in prefs users can choose how quick or slow dots appear.
 
-![image](img/dots/d11.png)
-
 >> Numbers are in milliseconds. So 1200 = 1.2 seconds
 
-To show that in action.
-
-![image](img/dots/d10.gif)
+[start](img/dots/s1.png)
 
 # About Dots
 
@@ -89,4 +65,6 @@ Dots was a subsystem for boxcutter 690 and was added in the final 2.79 release.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9wqdXqtYQns" frameborder="0" allowfullscreen></iframe>
 
-For 2.8 we attempted to optimize the hotkey portion of the workflow but without dots Boxcutter can seem daunting.
+If using the new helper snap can also be adjusted in the snap area.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4jylOZ7D21A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
