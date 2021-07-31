@@ -4,53 +4,50 @@
 
 Fade was added to boxcutter as of version 714. It is a visual aesthetic for adjusting the fading of shapes on entry and exit.
 
-Shapes now have the ability to fade into view and fade out of view. This has resulted in a much more graceful experience. This was the most time consuming portion of 714. Great care was taken to improve stability in order to support this system.
-Fade times are in milliseconds. Set to low numbers to disable.
+> And we have been working on refining it ever since.
 
-![image](img/fade/f1.gif)
+Shapes now have the ability to fade into view and fade out of view. This has resulted in a much more graceful experience. Great care was taken to improve stability in order to support this system.
 
-Fade options can be found in the topbar / D-pie.
-In and out time is in milliseconds.
-
-![image](img/fade/f2.png)
-
-Fade adds shape afterfade for lazorcut, greybox, and repeat.
-
-![image](https://masterxeon1001.files.wordpress.com/2019/09/yurml1qrxi.gif)
-
-# Long fading
-
-Setting the time high will result in multifade for multiple shapes.
-Strangely they can even persist across new files if set high enough.
-
-![image](img/fade/f4.gif)
-
-
-# Turning Off Fade
-
-Setting fade to 1 will turn off fade.
-
-![image](img/fade/f3.gif)
-
-> I'd never turn off fade.
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHKAfuKbMa8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Fade Sound Effects (easter egg)
 
-Setting the fade out to any of these times will activate a sound effect.
+Setting the fade out to any of these times will activate a sound effect. 
 
-![image](img/fade/f6.png)
-
-> As of version 714_4
+> The numbers that activate them are set to be so random that general use would never uncover them.
 
 ![image](img/fade/f5.png)
 
 We hope to expand this into something more musical and entertaining in the future.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bB4HL3V9lDw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+> Fade sound effects also will active a forward / next button for easier fx jumping.
+
+[Boxtip #65. Sound Effects and Forward / Back Buttons]
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YUjTS-FpYOs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # Setting Fade Volume
 
-As of (2.8)BoxCutter 714_10 a parameter for audio was added. If the user is on a fade value mentioned above a volume pref will be shown.
+As of (2.8)BoxCutter 714_10 a parameter for audio was added. If the user is on a fade value mentioned above a volume / sound device pref will be shown.
 
 > Default volume is now 10% by default.
 
-![image](img/fade/f7.gif)
+In the event sounds are not playing from Blender there could be an issue with the sound device specified. For that reason we expose that as well.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pBMUq1qsQHM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+# Extraction Fade
+
+Extraction fade has also returned to Boxcutter after a time away. 
+
+[#boxcutter 718_7 - Extraction Fade Return]
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Kk0zbDAUplk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+There is also a video where more depth is given to this topic.
+
+[#boxcutter 718_7 - Extraction Fade In-Depth (take2)]
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1pOO_-ltQos" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
